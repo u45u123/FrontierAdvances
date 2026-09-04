@@ -1,7 +1,11 @@
 {
   "name": "Frontier Advances",
   "short_name": "Frontier Advances",
+  "id": "/",
+  "description": "A 31-day prayer guide for frontier people groups.",
+  "lang": "en",
   "start_url": "./",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f8f4ea",
   "theme_color": "#173d35",

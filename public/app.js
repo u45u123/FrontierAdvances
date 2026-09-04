@@ -102,8 +102,9 @@ try {
   page.innerHTML = `<p class="load-error">Could not load prayer data. Open this app at <strong>http://localhost:8000/</strong>, not as a file. (${error.message})</p>`;
 }
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.getRegistrations().then((registrations) => {
-    registrations.forEach((registration) => registration.unregister());
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js', { updateViaCache: 'none' })
+      .then((registration) => registration.update())
+      .catch(() => {});
   });
-  caches.keys().then((keys) => keys.forEach((key) => caches.delete(key)));
 }
