@@ -16,11 +16,79 @@
     <link rel="apple-touch-icon" href="assets/icons/frontier-advances-compass-192.png" />
     <link rel="stylesheet" href="styles.css" />
     <title>Frontier Advances</title>
+
+    <!-- 카카오톡 인앱 브라우저 우회 스크립트 시작 -->
+    <style>
+      /* 아이폰 인앱 브라우저 안내 모달 스타일 */
+      #inapp-guide {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; width: 100%; height: 100%;
+        background: rgba(23, 61, 53, 0.95); /* var(--forest) 색상 활용 */
+        color: #fff;
+        z-index: 9999;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 2rem;
+        font-family: Arial, sans-serif;
+      }
+      #inapp-guide.show {
+        display: flex;
+      }
+      #inapp-guide h2 {
+        color: #e5cf92; /* var(--sand) 색상 활용 */
+        margin-bottom: 1rem;
+      }
+      #inapp-guide p {
+        line-height: 1.6;
+        font-size: 1.1rem;
+      }
+      #inapp-guide .icon {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+      }
+    </style>
+    <script>
+      (function() {
+        var userAgent = navigator.userAgent.toLowerCase();
+        var targetUrl = window.location.href;
+
+        // 카카오톡 브라우저인지 확인
+        if (userAgent.indexOf('kakaotalk') !== -1) {
+          
+          // 1. 안드로이드: 외부 브라우저(크롬 등)로 자동 연결
+          if (userAgent.indexOf('android') !== -1) {
+            window.location.href = 'kakaotalk://web/openExternal?url=' + encodeURIComponent(targetUrl);
+          } 
+          // 2. iOS(아이폰/아이패드): 자동 전환이 안 되므로 안내 모달 띄우기
+          else if (userAgent.indexOf('iphone') !== -1 || userAgent.indexOf('ipad') !== -1) {
+            document.addEventListener("DOMContentLoaded", function() {
+              document.getElementById('inapp-guide').classList.add('show');
+            });
+          }
+        }
+      })();
+    </script>
+    <!-- 카카오톡 인앱 브라우저 우회 스크립트 끝 -->
+
   </head>
   <body>
+    <!-- 아이폰용 안내 모달 UI (카카오톡으로 접속한 iOS 사용자에게만 보입니다) -->
+    <div id="inapp-guide">
+      <div class="icon">🧭</div>
+      <h2>Safari 앱으로 열어주세요</h2>
+      <p>
+        앱을 설치하시려면 화면 우측 하단의<br>
+        <strong>[나침반 아이콘]</strong> 또는 <strong>[메뉴]</strong>를 눌러<br>
+        <strong>'다른 브라우저로 열기(Safari)'</strong>를 선택해 주세요.
+      </p>
+    </div>
+
     <header class="topbar">
       <a class="brand" href="#top">Frontier Advances <span>Acts Now Prayer</span></a>
-      <label class="day-picker">Todya's Prayer
+      <label class="day-picker">Today's Prayer
         <select id="daySelect" aria-label="기도 일차 선택"></select>
       </label>
     </header>
