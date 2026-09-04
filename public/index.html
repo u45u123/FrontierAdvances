@@ -18,12 +18,12 @@
     <title>Frontier Advances</title>
 
     <style>
-      /* iOS In-app Browser Guide Modal Style */
+      /* iOS In-app Browser Guide Modal Style (KakaoTalk bypass) */
       #inapp-guide {
         display: none;
         position: fixed;
         top: 0; left: 0; width: 100%; height: 100%;
-        background: rgba(23, 61, 53, 0.95); /* Using var(--forest) color */
+        background: rgba(23, 61, 53, 0.95);
         color: #fff;
         z-index: 9999;
         flex-direction: column;
@@ -37,7 +37,7 @@
         display: flex;
       }
       #inapp-guide h2 {
-        color: #e5cf92; /* Using var(--sand) color */
+        color: #e5cf92;
         margin-bottom: 1rem;
       }
       #inapp-guide p {
@@ -51,7 +51,7 @@
 
       /* Android PWA Install Button Style */
       #install-btn {
-        display: none; /* Hidden by default, shown via JS when installable */
+        display: none;
         width: 100%;
         padding: 1rem;
         background-color: #173d35;
@@ -74,13 +74,12 @@
         var userAgent = navigator.userAgent.toLowerCase();
         var targetUrl = window.location.href;
 
-        // Check if the browser is KakaoTalk
         if (userAgent.indexOf('kakaotalk') !== -1) {
-          // 1. Android: Automatically open in an external browser
+          // 1. Android: Auto-redirect to external browser
           if (userAgent.indexOf('android') !== -1) {
             window.location.href = 'kakaotalk://web/openExternal?url=' + encodeURIComponent(targetUrl);
           } 
-          // 2. iOS (iPhone/iPad): Show guide modal
+          // 2. iOS: Show manual guide modal
           else if (userAgent.indexOf('iphone') !== -1 || userAgent.indexOf('ipad') !== -1) {
             document.addEventListener("DOMContentLoaded", function() {
               document.getElementById('inapp-guide').classList.add('show');
@@ -151,37 +150,65 @@
       </article>
     </template>
 
+    <!-- iOS PWA Install Guide Banner (Visible only on iOS Safari when not installed) -->
+    <div id="ios-install-guide" style="display: none; position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); width: 90%; max-width: 400px; background-color: #f8f4ea; color: #18332d; padding: 1rem; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); text-align: center; z-index: 1000; border: 2px solid #173d35;">
+      <p style="margin: 0 0 0.5rem 0; font-size: 0.95rem; line-height: 1.4;">
+        To install this app, tap the <strong>Share icon</strong> (square with an up arrow) at the bottom, then select <strong>'Add to Home Screen'</strong>.
+      </p>
+      <button onclick="document.getElementById('ios-install-guide').style.display='none'" style="background: #173d35; color: white; border: none; padding: 0.5rem 1rem; border-radius: 6px; font-weight: bold; cursor: pointer;">Close</button>
+      <!-- Bottom Arrow Detail -->
+      <div style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-top: 10px solid #173d35;"></div>
+    </div>
+
     <script type="module" src="app.js"></script>
 
-    <!-- PWA Install Button Script (Android only) -->
+    <!-- PWA Install Scripts (Android & iOS) -->
     <script>
+      // ==========================================
+      // 1. Android Install Button Logic
+      // ==========================================
       let deferredPrompt;
       const installBtn = document.getElementById('install-btn');
 
       window.addEventListener('beforeinstallprompt', (e) => {
-        // Prevent the default browser install prompt from showing
+        // Prevent default prompt
         e.preventDefault();
-        // Save the event so it can be triggered later
+        // Save event
         deferredPrompt = e;
-        // Show our custom install button
+        // Show install button
         installBtn.style.display = 'block';
       });
 
       installBtn.addEventListener('click', async () => {
         if (deferredPrompt) {
-          // Show the install prompt
           deferredPrompt.prompt();
-          // Wait for the user to respond to the prompt
           const { outcome } = await deferredPrompt.userChoice;
-          
-          // If the user accepts, hide the button
           if (outcome === 'accepted') {
             installBtn.style.display = 'none';
           }
-          // Clear the deferredPrompt variable, it can only be used once
           deferredPrompt = null;
         }
       });
+
+      // ==========================================
+      // 2. iOS Install Guide Banner Logic
+      // ==========================================
+      const isIos = () => {
+        const userAgent = window.navigator.userAgent.toLowerCase();
+        return /iphone|ipad|ipod/.test(userAgent);
+      };
+
+      const isInStandaloneMode = () => {
+        return ('standalone' in window.navigator) && (window.navigator.standalone);
+      };
+
+      // Show banner if it's iOS and NOT in standalone (app) mode
+      if (isIos() && !isInStandaloneMode()) {
+        const iosGuide = document.getElementById('ios-install-guide');
+        if (iosGuide) {
+          iosGuide.style.display = 'block';
+        }
+      }
     </script>
   </body>
 </html>
