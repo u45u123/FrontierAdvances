@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="ko">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,14 +17,14 @@
     <link rel="stylesheet" href="styles.css" />
     <title>Frontier Advances</title>
 
-    <!-- 카카오톡 인앱 브라우저 우회 스크립트 시작 -->
+    <!-- KakaoTalk In-app Browser Bypass Script Start -->
     <style>
-      /* 아이폰 인앱 브라우저 안내 모달 스타일 */
+      /* iOS In-app Browser Guide Modal Style */
       #inapp-guide {
         display: none;
         position: fixed;
         top: 0; left: 0; width: 100%; height: 100%;
-        background: rgba(23, 61, 53, 0.95); /* var(--forest) 색상 활용 */
+        background: rgba(23, 61, 53, 0.95); /* Using var(--forest) color */
         color: #fff;
         z-index: 9999;
         flex-direction: column;
@@ -38,7 +38,7 @@
         display: flex;
       }
       #inapp-guide h2 {
-        color: #e5cf92; /* var(--sand) 색상 활용 */
+        color: #e5cf92; /* Using var(--sand) color */
         margin-bottom: 1rem;
       }
       #inapp-guide p {
@@ -55,14 +55,14 @@
         var userAgent = navigator.userAgent.toLowerCase();
         var targetUrl = window.location.href;
 
-        // 카카오톡 브라우저인지 확인
+        // Check if the browser is KakaoTalk
         if (userAgent.indexOf('kakaotalk') !== -1) {
           
-          // 1. 안드로이드: 외부 브라우저(크롬 등)로 자동 연결
+          // 1. Android: Automatically open in an external browser (e.g., Chrome)
           if (userAgent.indexOf('android') !== -1) {
             window.location.href = 'kakaotalk://web/openExternal?url=' + encodeURIComponent(targetUrl);
           } 
-          // 2. iOS(아이폰/아이패드): 자동 전환이 안 되므로 안내 모달 띄우기
+          // 2. iOS (iPhone/iPad): Show guide modal as auto-redirect is not supported
           else if (userAgent.indexOf('iphone') !== -1 || userAgent.indexOf('ipad') !== -1) {
             document.addEventListener("DOMContentLoaded", function() {
               document.getElementById('inapp-guide').classList.add('show');
@@ -71,25 +71,25 @@
         }
       })();
     </script>
-    <!-- 카카오톡 인앱 브라우저 우회 스크립트 끝 -->
+    <!-- KakaoTalk In-app Browser Bypass Script End -->
 
   </head>
   <body>
-    <!-- 아이폰용 안내 모달 UI (카카오톡으로 접속한 iOS 사용자에게만 보입니다) -->
+    <!-- iOS Guide Modal UI (Visible only to iOS users accessing via KakaoTalk) -->
     <div id="inapp-guide">
       <div class="icon">🧭</div>
-      <h2>Safari 앱으로 열어주세요</h2>
+      <h2>Please Open in Safari</h2>
       <p>
-        앱을 설치하시려면 화면 우측 하단의<br>
-        <strong>[나침반 아이콘]</strong> 또는 <strong>[메뉴]</strong>를 눌러<br>
-        <strong>'다른 브라우저로 열기(Safari)'</strong>를 선택해 주세요.
+        To install the app, please tap the<br>
+        <strong>[Share Icon]</strong> or <strong>[Upload Icon]</strong> at the bottom right,<br>
+        and select <strong>'Open in Default Browser'</strong> or <strong>'Open in Safari'</strong>.
       </p>
     </div>
 
     <header class="topbar">
       <a class="brand" href="#top">Frontier Advances <span>Acts Now Prayer</span></a>
       <label class="day-picker">Today's Prayer
-        <select id="daySelect" aria-label="기도 일차 선택"></select>
+        <select id="daySelect" aria-label="Select prayer day"></select>
       </label>
     </header>
     <main id="top" class="page" aria-live="polite">
