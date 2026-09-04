@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#173d35" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="description" content="Frontier Advances prayer guide" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="assets/icons/frontier-advances-compass.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="assets/icons/frontier-advances-compass-192.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Frontier Advances</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top">Frontier Advances <span>Acts Now Prayer</span></a>
+      <label class="day-picker">Todya's Prayer
+        <select id="daySelect" aria-label="기도 일차 선택"></select>
+      </label>
+    </header>
+    <main id="top" class="page" aria-live="polite">
+      <p class="loading">Loading today’s prayer…</p>
+    </main>
+    <template id="entryTemplate">
+      <article class="prayer-entry">
+        <section class="hero section">
+          <p class="eyebrow"></p>
+          <h1></h1>
+          <p class="region"></p>
+        </section>
+        <section class="photo-section section">
+          <img class="person-image" alt="" />
+          <p class="credit"></p>
+        </section>
+        <section class="stats-section section">
+          <h2>Statistics</h2>
+          <dl class="stats"></dl>
+        </section>
+        <section class="general-section section">
+          <h2>General information</h2>
+          <div class="rich-text general"></div>
+        </section>
+        <section class="scripture-section section">
+          <h2>Scripture</h2>
+          <div class="rich-text scripture"></div>
+        </section>
+        <section class="prayer-section section">
+          <h2>Prayer points</h2>
+          <ol class="rich-text prayers"></ol>
+        </section>
+        <section class="map-section section">
+          <h2>Map</h2>
+          <img class="map-image" alt="" />
+          <p class="credit map-credit"></p>
+        </section>
+      </article>
+    </template>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

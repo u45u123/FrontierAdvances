@@ -1,0 +1,185 @@
+{
+  "day": 27,
+  "region": "Other Asia",
+  "peopleName": "Malay of Malaysia",
+  "personImage": {
+    "src": "assets/day-27-person.jpg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "14,258,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Malay"
+    },
+    {
+      "label": "Christian",
+      "value": "0-0.1%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "60% of the population in Malaysia is the Malay. Though 9% of non-Malay Malaysians are Christian, only 0.08% of Malays in Malaysia are evangelical Christians.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Islam was established among the Malay by the 15th century. Starting in the 16th century, Malaysia was colonized by the Portuguese, the Dutch, and the British. The Dutch and British discouraged outreach to the Malays to avoid increasing political tension. As a result, outreach focused on non-Malay communities (Chinese, Indian, and Indigenous), resulting in the Malay people being ",
+          "bold": false
+        },
+        {
+          "text": "marginalised",
+          "bold": true
+        },
+        {
+          "text": " from the gospel. This made it seem like the church did not care about them.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Malaysia has gained political independence, but the connection between being Malay and Muslim continues. The legal definition of being a Malay includes being a Muslim. Slogans such as “Malay World, Muslim World” and “No Islam, not Malay” demonstrate the Malay’s deep commitment to Islam. Malaysian law forbids proselytizing of Muslims by non-Muslims and punishment can include imprisonment and caning.",
+          "bold": false
+        },
+        {
+          "text": "Malays converting to Christianity are stigmatized and may be sent to rehabilitation centres where they are pressured to return to Islam. ",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Political and social conditions make it very difficult for Malays to be open to the gospel and pose a barrier for Christian Malaysians from other people groups, to share their faith freely with the Malay. One Chinese Malaysian pastor, Raymond Koh, who openly sought to reach the Malay was abducted in February 2017; his family do not know what happened to him.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "One couple working among the Malay shared, “Perhaps because of the sensitive nature of ministry among the Malay, few mainline churches are involved with either manpower or finances in reaching them. The Malay are still ",
+          "bold": false
+        },
+        {
+          "text": "marginalised,",
+          "bold": true
+        },
+        {
+          "text": " but some individuals have a passion to see the Malay come to Christ.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Malay in Malaysia believe that to be Malay is to be Muslim. May the Malay in Malaysia find their true identity in Christ and be released from fear.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline. So do not be ashamed of the testimony about our Lord or of me his prisoner. Rather, join with me in suffering for the ",
+          "bold": false
+        },
+        {
+          "text": "gospel, by the power of God",
+          "bold": true
+        },
+        {
+          "text": ".”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "2 Timothy 1:7-8",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Lord will open the eyes of many Malays in Malaysia so that they seek the truth despite social and political challenges.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that Christians in Malaysia will be filled with love toward the Malays and commit to sharing the gospel with them in word and deed.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that efforts to reach the Malay through media (a high-quality audio Bible, apps, social media, etc.) will be fruitful.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Church will ",
+          "bold": false
+        },
+        {
+          "text": "repent for having caused the Malay people to be marginalized",
+          "bold": true
+        },
+        {
+          "text": " from the gospel in both the past and the present. Pray for a new season of ministry in which they are fully included and reached with Christ’s love.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that God will raise up a new generation around the world who will find creative ways to enter Malaysia and freely share the gospel.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-27-map.webp",
+    "source": "WorldAtlas"
+  }
+}

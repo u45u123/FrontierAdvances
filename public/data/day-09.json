@@ -1,0 +1,149 @@
+{
+  "day": 9,
+  "region": "India",
+  "peopleName": "FPGs in India",
+  "personImage": {
+    "src": "assets/day-09-person.png",
+    "source": "Adnan Mughal - Pexels. Licensed under CC0 1.0"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "1,051,877,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism/ Islam"
+    },
+    {
+      "label": "Christian Population",
+      "value": "Unknown"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "India is one of the most diverse countries in the world with thousands of distinct people groups.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "FPGs in India are ethnic or caste-based groups that have ",
+          "bold": false
+        },
+        {
+          "text": "not heard",
+          "bold": true
+        },
+        {
+          "text": " the gospel. These groups typically have less than 0.1% of their population identifying as Christian, and there is no known self-sustaining church movement among them. India is home to the highest number of frontier people groups in the world—over 1,700 out of approximately 4,800 globally—making it one of the greatest mission fields today.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Many of these groups belong to Hindu caste systems, Muslim communities, or indigenous tribes. In 15 cities where we researched, about 50–95% of the population are FPGs. They live in cities but stay closely connected to their rural communities. They speak minority languages and follow traditional beliefs, which makes sharing the gospel very difficult. Social barriers like unfair treatment based on caste, refusal to accept people from other religions, and poverty keep them isolated.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Despite these challenges, God desires that every tribe and tongue come to know Him. To reach these groups, we need focused prayer, more cross-cultural workers, long-term commitment, cultural understanding, and strong local leadership development. They remain some of the most spiritually unreached people in the world and are in urgent need of the loving witness and access to the truth of Jesus Christ.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Reaching them requires fresh, creative approaches guided by the Holy Spirit. This involves mobilizing more professionals and committed marketplace workers, both locally and globally.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“How, then, can they call on the one they have not believed in? And how can they believe in the one",
+          "bold": false
+        },
+        {
+          "text": "of whom they",
+          "bold": false
+        },
+        {
+          "text": "have not heard",
+          "bold": true
+        },
+        {
+          "text": "? And how can they hear without someone preaching to them?”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Romans 10:14",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Holy Spirit will open ",
+          "bold": false
+        },
+        {
+          "text": "new ways to reach FPGs in major cities",
+          "bold": true
+        },
+        {
+          "text": ", and God will send more workers (Matthew 9:38) who will respond to these new opportunities. Let them see fields white for harvest (John 4:35), and people be prepared to hear the gospel.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for no people group to be left out, but all to be adopted for prayer and outreach (Matthew 9:37-38; 2 Cor. 10:16; 2 Peter 3:9; Rev. 7:9).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for culturally sensitive approaches to effectively reach frontier people groups. Pray for long-term commitment and patience in ministry efforts among these communities.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for practical help and resources to meet their physical and social needs alongside spiritual outreach.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-09-map.png",
+    "source": "Joshua Project"
+  }
+}

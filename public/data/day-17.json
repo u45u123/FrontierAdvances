@@ -1,0 +1,197 @@
+{
+  "day": 17,
+  "region": "India",
+  "peopleName": "Mahratta",
+  "personImage": {
+    "src": "assets/day-17-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "36,204,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism"
+    },
+    {
+      "label": "Language",
+      "value": "Marathi"
+    },
+    {
+      "label": "Christian",
+      "value": "0.00%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Mahratta are proud Kshatriya people from Maharashtra, mainly speaking Marathi. They are located across Marathwaada while some are found along borders with Karnataka. A smaller number live further west in Pakistan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "They mostly belong to the ",
+          "bold": false
+        },
+        {
+          "text": "upper",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "levels",
+          "bold": true
+        },
+        {
+          "text": " of a rural society. Mainly “kunbi” (farmer) by class, almost all rural Maratha families own land and raise farm crops. The lands are usually big enough to support both cash crops and food crops.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "They are liberal compared to other Indian groups. Arranged marriage is not strictly enforced, and a boy can marry a girl of his choice if she is a Brahmin or a Maratha. Marathas are somewhat tolerant towards other cultures. But as they consider themselves ",
+          "bold": false
+        },
+        {
+          "text": "upper",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "caste",
+          "bold": true
+        },
+        {
+          "text": ", they usually look down upon people they consider as not their equal. The main objective of a middle-class Mahratta family is a secure future for themselves and their children, so financial success is a dominant concern.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hindu Mahratta usually worship Shiva as their family god and consider Shivaji as their leader. Most revere their land and earth as their mother. Mahrattas fiercely defend their culture, language and history. This brings up an important point: Hinduism is an important aspect of their culture. Telling them to stop giving their allegiance to these gods is usually viewed as an attack on their culture. The Hindu Mahratta people need the spiritual discernment and the humility it takes to recognize Jesus Christ for who he is.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“Salvation is found in no one else, for there is ",
+          "bold": false
+        },
+        {
+          "text": "no other name",
+          "bold": true
+        },
+        {
+          "text": " under heaven given to mankind by which we must be saved.”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Acts 4:12",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that those who are relying on their own strength, status, or ",
+          "bold": false
+        },
+        {
+          "text": "cultural",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "superiority",
+          "bold": true
+        },
+        {
+          "text": " may come to realize that salvation is found only in Jesus Christ. Pray that their hearts will ",
+          "bold": false
+        },
+        {
+          "text": "be humbled",
+          "bold": true
+        },
+        {
+          "text": " and open to the truth of the Gospel, recognizing that no one can be saved by their own power but only through the name of Jesus.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the strong traditions and religious identity of the Mahratta people would not hinder them from hearing and receiving the Gospel. Pray that the truth of Jesus would deeply touch their hearts.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Ask God to reveal the way to true salvation and eternal life through His Son, and for them to receive His grace and mercy with humility.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Gospel would be shared in culturally sensitive and powerful ways.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that entire villages and communities would experience the presence of God.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-17-map.png",
+    "source": "Joshua Project"
+  }
+}

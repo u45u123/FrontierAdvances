@@ -1,0 +1,173 @@
+{
+  "day": 4,
+  "region": "Arabs",
+  "peopleName": "Arabs as an Affinity Group",
+  "personImage": {
+    "src": "assets/day-04-person.jpeg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "139,929,000 (FPGs only, as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Christian",
+      "value": "0-0.1%"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Arab World Affinity Bloc includes people whose culture and background come from the Arabian Peninsula. Most of them speak Arabic. Islam is the main religion. Arab culture affects how people dress, what they believe, and how they live each day.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Arab Affinity Bloc people are primarily found in the Middle East, North Africa, t he Horn of Africa , and diaspora communities around the world. Sudanese Arabs are included in the Arab Affinity Bloc as defined by t he Joshua Project.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "With Islam being the dominant religion among this Affinity Group, prayer for the many pilgrims traveling to Mecca each year from the countries above is important.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Saudi Arabia is the birthplace and",
+          "bold": false
+        },
+        {
+          "text": "stronghold of Islam",
+          "bold": true
+        },
+        {
+          "text": ". From Mecca, Islam holds influence over billions and touches many cultures worldwide. Every year, billions of dollars in oil revenue are used to promote Islam globally. If a spiritual breakthrough for Jesus Christ were to happen here, it could bring powerful transformation to Islam and its followers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "All Muslims are required to pray facing Mecca five times a day, and over two million Muslims travel there each year for the pilgrimage known as Hajj. Pray that many who seek God might encounter the living Christ, the source of true life and",
+          "bold": false
+        },
+        {
+          "text": "truth",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“Jesus answered, ‘I am the way and",
+          "bold": false
+        },
+        {
+          "text": "the truth",
+          "bold": true
+        },
+        {
+          "text": "and the life. No one comes to the Father except through me.’”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "John 14:6",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that many in the Arab World will have open",
+          "bold": false
+        },
+        {
+          "text": "hearts to receive",
+          "bold": false
+        },
+        {
+          "text": "the truth of who Jesus",
+          "bold": true
+        },
+        {
+          "text": "is, free",
+          "bold": false
+        },
+        {
+          "text": "from fear, confusion, or misunderstanding.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that those working among the Arab Affinity Bloc peoples will form deep relationships with their neighbours , colleagues and friends. Pray for life-changing conversations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that dreams, visions and encounters with Jesus will continue among the Arab peoples and that they will meet believers who will teach them who Jesus really is.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for the pilgrims to Mecca who are truly seeking God and desiring Him, will find Him.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for small fellowships that exist in this region to be strengthened in their faith and grow in depth of knowledge and experience of Christ.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-04-map.png",
+    "source": "Joshua Project"
+  }
+}

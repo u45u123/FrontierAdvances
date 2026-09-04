@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Frontier Advances</title>
+  <rect width="512" height="512" rx="112" fill="#173d35"/>
+  <circle cx="256" cy="256" r="172" fill="#f8f4ea"/>
+  <circle cx="256" cy="256" r="144" fill="#e7dfca"/>
+  <path d="M256 102 293 219 410 256 293 293 256 410 219 293 102 256 219 219Z" fill="#c7902e"/>
+  <path d="m256 150 23 83 83 23-83 23-23 83-23-83-83-23 83-23Z" fill="#173d35"/>
+  <circle cx="256" cy="256" r="24" fill="#f8f4ea"/>
+  <path d="M178 343c34-28 122-28 156 0" fill="none" stroke="#173d35" stroke-width="16" stroke-linecap="round"/>
+  <path d="M193 170c21-18 42-27 63-27s42 9 63 27" fill="none" stroke="#173d35" stroke-width="14" stroke-linecap="round"/>
+</svg>

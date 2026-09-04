@@ -1,0 +1,157 @@
+{
+  "day": 5,
+  "region": "Arabs",
+  "peopleName": "Yemeni",
+  "personImage": {
+    "src": "assets/day-05-person.jpeg",
+    "source": "Rod Waddington - Flickr Licensed under CC BY-SA 2.0"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "34,350,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic (Various dialects)"
+    },
+    {
+      "label": "Christian",
+      "value": "Less than 0.1%"
+    },
+    {
+      "label": "Bible",
+      "value": "Available, but distribution is difficult"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Strategically positioned bordering the Red Sea in the West and the Arabian Sea in the South, Yemen has a long history going back thousands of years. Trade with Arabia, Egypt, the Gulf countries, and India helped ancient Yemeni kingdoms, including",
+          "bold": false
+        },
+        {
+          "text": "the biblical",
+          "bold": false
+        },
+        {
+          "text": "Kingdom of Sheba/Saba",
+          "bold": true
+        },
+        {
+          "text": ", to flourish.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Christianity was dominant in some parts of Yemen in the 6th century, but then Yemenis became proud and fierce followers of Islam – some even before Muhammad’s death in 632. Since then, being a Yemeni means being a Muslim. The Zaydi Yemenis like e.g. the Houthis belong to the Shi’ites and live mainly in the hills in the northwest of the country, while Sunni Yemenis live in the south and east, including the cities on the coasts. Tribes continue to play an important role in everyday life and politics.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "In 1990 South and North Yemen united and formed the Republic of Yemen. However, conflicts continued and a civil war that began in 2014 has brought incredible misery to most Yemenis. Tens of thousands have been killed, many more have been displaced, and malnutrition is common among children. A ceasefire in 2023 raised some hopes for a better future, but air attacks by Western forces and Israel followed after the Houthis began to support Hamas in the Gaza war.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Christian outreach started again in the 19th century and focused on medical work, education and skills training.",
+          "bold": false
+        },
+        {
+          "text": "Despite wars and unrest, the Gospel has been faithfully shared but until recently very few accepted it. The vast majority of the more than 35 million Yemenis have not heard or understood the Gospel, and believers cannot meet openly for fear of persecution.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Today some Yemenis live abroad in countries like Egypt, the United Arab Emirates, or the UK where they can more easily meet followers of Christ.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“And",
+          "bold": false
+        },
+        {
+          "text": "all from Sheba",
+          "bold": true
+        },
+        {
+          "text": "will come, bearing gold and incense and proclaiming the praise of the Lord!”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Isaiah 60:6 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Today’s suffering in Yemen, with frequent violent internal conflicts, displacement, and malnutrition, stands in stark contrast to the riches and",
+          "bold": false
+        },
+        {
+          "text": "beauty of the ancient Kingdom of Sheba",
+          "bold": true
+        },
+        {
+          "text": ". Pray for Yemenis to return wholeheartedly to their",
+          "bold": false
+        },
+        {
+          "text": "Redeemer and proclaim the praises of the Lord once again.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "May Christian NGOs and aid workers shine like a light and be like incense in this country, so that many would come to experience repentance, restoration, and renewal of their souls, and whole families would be rescued from suffering, guilt, and shame.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Thank God for those Yemeni believers who have stood firm in their faith, whether in or outside the country. May their testimony encourage more people to find new hope in Jesus. Pray for Yemenis to come to Him, where their hearts can be purified like gold and their lives presented as incense of praise.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-05-map.png",
+    "source": "Operation World"
+  }
+}

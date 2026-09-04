@@ -1,0 +1,149 @@
+{
+  "day": 28,
+  "region": "Other Asia",
+  "peopleName": "Maldivian",
+  "personImage": {
+    "src": "assets/day-28-person.jpg",
+    "source": "Pexels"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "529,676 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Maldivian"
+    },
+    {
+      "label": "Christian",
+      "value": "0.01%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Only Luke, Acts"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Maldivians are still among ",
+          "bold": false
+        },
+        {
+          "text": "the least evangelised on earth",
+          "bold": true
+        },
+        {
+          "text": ". Neither mission work nor Christian literature has ever been allowed. The government denies the existence of Christianity among Maldivians while arresting those who believe. Only the Gospel of Luke and Acts are currently available in Divehi (Maldivian), but even those are not permitted to enter the nation.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Maldives suffers from one of the highest divorce rates in the world with rising crime, increasing gang activities, widespread child abuse and pervasive drug use among teens.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Why have they remained an unreached people group for so long?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "In the Maldives, people living on one island can only move to another island or visit for a short time with special permission from the village chief who governs the island. With an average population of just over 1,500 people per island, and people marrying between 5 and 10 times each, it means that all the people on an island end up being related to one another. This makes it difficult for them to receive any outside influence.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“She gave this name to the Lord who spoke to her: “You are the God who sees me,” for she said, “I have now seen the ",
+          "bold": false
+        },
+        {
+          "text": "One who sees me.",
+          "bold": true
+        },
+        {
+          "text": "”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Genesis 16:13",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Although the Maldivians are isolated from the Gospel both geographically and politically, God sees them. Pray that they would recognize the ",
+          "bold": false
+        },
+        {
+          "text": "God who sees them",
+          "bold": true
+        },
+        {
+          "text": " and reach out to Him.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray against strongholds of pride, fear, and selfish pursuit of physical pleasures, which have blinded the eyes of the Maldivians and prevent them from seeing Him.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that Sri Lankan Christians would really see them, and share the Gospel with them, and that Maldivians living abroad will be saved and return with the Lord’s mercy toward their own people, becoming seeds of the Gospel.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for the Divehi Bible translation to be finished soon, and for Scripture distribution (perhaps electronically) so that Maldivians can see God’s Word.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-28-map.jpg",
+    "source": "WorldAtlas"
+  }
+}

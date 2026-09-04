@@ -1,0 +1,169 @@
+{
+  "day": 3,
+  "region": "Africa",
+  "peopleName": "Somali",
+  "personImage": {
+    "src": "assets/day-03-person.jpeg",
+    "source": "Tosco.diaz-Flickr"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "16,288,200 in 16 countries (FPGs only, as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Somali and Arabic"
+    },
+    {
+      "label": "Christian",
+      "value": "Less than 0.03%"
+    },
+    {
+      "label": "Bible",
+      "value": "Bible complete and published by Kenia bible society mid 1970s"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "More than 28 million Somalis live in about 35 countries, half of them living in Somalia. Most Somalis belong to one of five main clans, which shape their social and political life. Clan loyalty is very important, and many decisions are made through clan elders and family networks.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "About 60–70% of Somalis are nomadic or semi-nomadic. They move with their animals to find water and grass. Life in the countryside is tough, with little access to schools, hospitals, or clean water. Only 1.6% of the land is good for farming, and droughts often cause hunger and displacement.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Somalia has faced many years of war and conflict. Since the government collapsed in 1991, millions of people have been forced to leave their homes. Some live in camps inside Somalia, while others have moved to surrounding countries like Ethiopia and Kenya or beyond.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Somaliland (independent since 1991) and Puntland (self-governed since 1998) in the north seem more stable and safer due to strong clan structures with less civil strife and a better infrastructure. These two regions have the potential to help restore the south.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "For Somali Christians, life is very difficult. Most must keep their faith secret because of strong social pressure and danger. Many are isolated, without churches or Christian friends. Some face threats or violence. Even so, more people are becoming Christians through online media and personal experiences. They need safe ways to learn, grow, and connect with others.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Somalis are famous for their rich oral tradition, especially",
+          "bold": false
+        },
+        {
+          "text": "poetry",
+          "bold": true
+        },
+        {
+          "text": ". Poetry is used to express emotions, share history, and solve conflicts. Even in rural areas, people memorize and recite long poems.",
+          "bold": false
+        },
+        {
+          "text": "Poets",
+          "bold": true
+        },
+        {
+          "text": "are respected in society, and poetry contests are common.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "This tradition helps keeping the Somali language strong and connects generations through storytelling, wisdom, and creativity.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "He put a new song in my mouth, a song of praise to our God. Many will see and fear, and put their trust in the Lord.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Psalm 40:3 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "May the Somalis express themselves with new songs and poems of hope and praise of God in the midst of conflict, trauma, displacement and hardship!",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "May the word of God be recited and may believers be respected in the Somali society for the truth, beauty and hope that the Bible expresses.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "May Christian Media and online platforms touch the hearts of the people with the gospel as they present the good news in rich, traditional and creative, as well as poetic ways.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that many Somalis would see Jesus and put their trust in Him. May they find strength and spiritual growth in fellowship with Christ and other believers, sharing lives and the gospel boldly with their mouth full of praise!",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "May the Lord send more workers and singers of His praises to the Somalis in the coming months.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-03-map.png",
+    "source": "Joshua Project"
+  }
+}

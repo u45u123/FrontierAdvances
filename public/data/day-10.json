@@ -1,0 +1,141 @@
+{
+  "day": 10,
+  "region": "India",
+  "peopleName": "Baghban",
+  "personImage": {
+    "src": "assets/day-10-person.jpeg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "884,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism and Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Urdu and Hindi"
+    },
+    {
+      "label": "Christian",
+      "value": "0-0.1%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Baghban people are a community of fewer than one million. About 616,000 come from a Hindu background, and around 268,000 come from a Muslim background.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Because India has over a billion people, the Baghban are not widely known. They live mainly in India, but also in Nepal and Pakistan. In India, most of them are found in Uttar Pradesh, Maharashtra, and Karnataka. They usually speak Urdu and Hindi, which already have Bible translations and Christian resources.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The word Baghban means ",
+          "bold": false
+        },
+        {
+          "text": "“the one who looks after the garden,”",
+          "bold": true
+        },
+        {
+          "text": " reflecting their origins as ",
+          "bold": false
+        },
+        {
+          "text": "gardeners",
+          "bold": true
+        },
+        {
+          "text": ". Today, many still sell fruits and vegetables, while others work in government jobs. They work hard to provide for their families and often try to send both sons and daughters to school. Even so, caste-based politics in India make it difficult for Baghban children to enter professions like medicine or law.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Missionaries have been active in India since the 1700s—first in the south, and later in the east and north. Indian missionaries have also played a major role in spreading the gospel. Yet the percentage of Christians among the Baghban remains at 0%. Because so little information exists about them, it can feel as though they are a forgotten people. Let us pray that the Baghban would know that God has not forgotten them.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“Return to us, God Almighty! Look down from heaven and see! Watch over this vine, the root your right hand has planted, the son you have raised up for yourself.”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Psalm 80:14-15 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Christians in Baghban would remember ",
+          "bold": false
+        },
+        {
+          "text": "God as their loving Gardener",
+          "bold": true
+        },
+        {
+          "text": " and not become discouraged.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that many of God’s workers would be sent to plant the gospel in this land.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that, as God the Gardener tends and remembers them, the world would also remember them.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-10-map.png",
+    "source": "Joshua Project"
+  }
+}

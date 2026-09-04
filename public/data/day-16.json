@@ -1,0 +1,161 @@
+{
+  "day": 16,
+  "region": "India",
+  "peopleName": "Kurmi",
+  "personImage": {
+    "src": "assets/day-16-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "15,630,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism"
+    },
+    {
+      "label": "Language",
+      "value": "Hindi"
+    },
+    {
+      "label": "Christian",
+      "value": "0.01%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Kurmi is a Hindu ",
+          "bold": false
+        },
+        {
+          "text": "farming",
+          "bold": true
+        },
+        {
+          "text": " caste in India and Nepal, and some live in Bangladesh and Pakistan as well.",
+          "bold": false
+        },
+        {
+          "text": "Kurmi people are found in Uttar Pradesh (over 5 million), Bihar, Madhya Pradesh, Punjab, Jharkhand, Assam, and parts of West Bengal in India. Kurmi is one of the castes (jatis). They are known as one of India’s oldest farming castes. They speak Kurmali, which is written in Bangla script in West Bengal, Devanagari in Jharkhand, and Odia in Odisha. Kurmali has many dialects.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Kurmi people are Hindus. They ",
+          "bold": false
+        },
+        {
+          "text": "worship Ram",
+          "bold": true
+        },
+        {
+          "text": " (the ideal king and perfect man, representing righteousness, virtue, and dharma) ",
+          "bold": false
+        },
+        {
+          "text": "and Vishnu",
+          "bold": true
+        },
+        {
+          "text": " (one of the principal gods in Hinduism). They also worship other gods like Kali, Durga, and Hanuman. They celebrate big Hindu festivals such as Diwali, Holi, Shivaratri, and Dussehra.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Christianity is very small among the Kurmi people. Most Kurmis follow Hinduism. A few have become Christians, but it is not common. The Kurmi community has a strong Hindu identity and feels social pressure to stay Hindu, according to Joshua Project.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“This God—his way is ",
+          "bold": false
+        },
+        {
+          "text": "perfect",
+          "bold": true
+        },
+        {
+          "text": "; the word of the LORD proves true; he is a shield for all those who take refuge in him. For who is God, but the LORD? And who is a rock, except our God?— the God who equipped me with strength and made ",
+          "bold": false
+        },
+        {
+          "text": "my way blameless.",
+          "bold": true
+        },
+        {
+          "text": "”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Psalm 18:30-32 (ESV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Kurmi people may realize that God alone is ",
+          "bold": false
+        },
+        {
+          "text": "perfect",
+          "bold": true
+        },
+        {
+          "text": " and just, and that they can walk in His ",
+          "bold": false
+        },
+        {
+          "text": "perfect",
+          "bold": true
+        },
+        {
+          "text": " ways through the blood of Jesus.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the few who have already accepted Christianity may deeply experience His love, so that they are firmly rooted in His truth and transformed by the Holy Spirit. Pray that they faithfully serve as God’s priests among their own people and beyond.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-16-map.png",
+    "source": "Joshua Project"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Frontier Advances — Guiding Star</title>
+  <rect width="512" height="512" rx="112" fill="#1a3d5a"/>
+  <circle cx="256" cy="256" r="174" fill="#eef1eb"/>
+  <path d="M256 112 281 211 380 236 281 261 256 360 231 261 132 236 231 211Z" fill="#d29b35"/>
+  <circle cx="256" cy="236" r="25" fill="#1a3d5a"/>
+  <path d="M158 353c28-52 61-78 98-78s70 26 98 78" fill="none" stroke="#1a3d5a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M181 371h150" stroke="#1a3d5a" stroke-width="17" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+.vercel/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Source material is local-only; the deployed PWA uses the prepared public assets.
+*.docx
+*.pdf
+*.xlsx

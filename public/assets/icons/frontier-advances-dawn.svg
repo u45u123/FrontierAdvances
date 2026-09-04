@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Frontier Advances — Dawn</title>
+  <rect width="512" height="512" rx="112" fill="#254b45"/>
+  <circle cx="256" cy="256" r="174" fill="#f8f4ea"/>
+  <path d="M104 328h304" stroke="#254b45" stroke-width="18" stroke-linecap="round"/>
+  <path d="M146 328c15-94 78-143 110-143s95 49 110 143" fill="#d29b35"/>
+  <path d="M141 328h230" stroke="#f8f4ea" stroke-width="16"/>
+  <path d="m256 120 0 35m-73-15 20 31m126-31-20 31m-158 53 34 12m142-12-34 12" stroke="#254b45" stroke-width="15" stroke-linecap="round"/>
+  <path d="M132 367c38-25 77-37 124-37 47 0 86 12 124 37" fill="none" stroke="#254b45" stroke-width="17" stroke-linecap="round"/>
+</svg>

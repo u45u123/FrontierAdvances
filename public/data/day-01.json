@@ -1,0 +1,205 @@
+{
+  "day": 1,
+  "region": "Africa",
+  "peopleName": "Fulani / Fulbe",
+  "personImage": {
+    "src": "assets/day-01-person.jpeg",
+    "source": "Flickr"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "13,877,900 (FPGs only, as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Fula"
+    },
+    {
+      "label": "Christian",
+      "value": "Less than 0.1%"
+    },
+    {
+      "label": "Bible-Portions",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Fulani are the world’s largest ",
+          "bold": false
+        },
+        {
+          "text": "nomadic group",
+          "bold": true
+        },
+        {
+          "text": ". For over 1,000 years, they have influenced West African politcs, trade, and religion. As the first West Africans to follow Islam, they spread it through jihads and formed a powerful empire in the 1800s.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "They are known by various names: Fulani or Fula (from Hausa), Peul or Peulh (French, from Wolof), Fulbe (Anglicized from Fulfulde/Pulaar), and Fallata/Fellata (from Kanuri, used in Chad and Sudan).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Fulani are traditionally herders, moving with their cattle for fresh grass and water. Known for their deep knowledge of nature, many still live this way, while others have settled in towns. They live in simple homes and wear colorful patterned clothes. Today many of them are influential traders.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Fulani families are close-knit, teaching children politeness, hard work, and pride in their culture. Music, storytelling, and dance play important roles in their lives.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Sadly, there have been conflicts for centuries between sedentary farmers and nomadic pastoralists and farmers. Farmers accuse ",
+          "bold": false
+        },
+        {
+          "text": "nomads",
+          "bold": true
+        },
+        {
+          "text": " of damaging their crops with their herds, while ",
+          "bold": false
+        },
+        {
+          "text": "nomads",
+          "bold": true
+        },
+        {
+          "text": " complain about cattle theft, water access issues, and movement. These problems can be solved with peace, understanding, and support.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The few Fulani Christians often face rejection from their own communities and danger from extremist groups. Some are attacked or forced to leave their homes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Fulani take great pride in their Muslim identity. However, their situation differs widely across countries, depending on lifestyle, education, and how they perceive themselves and are perceived by others.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "God has revealed himself to some Fulanis in certain areas and there are pockets of Fulani believers in several countries, who often face rejection from their own communities and danger from extremist groups.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "They still need more workers, however there are several well-established churches in several countries in West Africa, with mature Pastors. One Pastor has started his own agency called ‘Fulani Ministries’.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“The Lord will watch over your coming and going”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Psalm 121:8 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray for an unstoppable Holy Spirit movement among the Fulani, raising disciples,",
+          "bold": false
+        },
+        {
+          "text": "spiritual shepherds,",
+          "bold": true
+        },
+        {
+          "text": "pastors, and missionaries for Christ across Africa and beyond.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for more loving, committed workers to serve the Fulani people.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for victims of terrorism and that the Fulani find freedom, peace, and transformation through the Gospel.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for Fulani refugees facing discrimination, that God will provide for their needs and prepare them for the challenges ahead.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for the Fulani leaders to see the needs for the young Fulanis to get formal education for better opportunities in the future. The typically Fulani lifestyle is increasingly difficult.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-01-map.jpeg",
+    "source": "wikiwand"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "day": 21,
+  "region": "India",
+  "peopleName": "Teli",
+  "personImage": {
+    "src": "assets/day-21-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "21,850,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism"
+    },
+    {
+      "label": "Language",
+      "value": "Hindi"
+    },
+    {
+      "label": "Christian",
+      "value": "0.01%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Teli is a traditional ",
+          "bold": false
+        },
+        {
+          "text": "oil-pressing",
+          "bold": true
+        },
+        {
+          "text": " community in India. Their name comes from the Sanskrit word for oil. They traditionally belong to the third of four levels in the caste system.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "As oil-pressing became mechanized, many Telis now work in farming and labor jobs. Many do not own land, and some have registered as “Other Backward Castes” to receive government support. Some Telis work in business, government and politics.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Teli people live throughout India. A small number live in Bangladesh, Nepal, Sri Lanka or Pakistan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Teli elders arrange marriages within the community, and dowries are paid in cash or valuables. Although women have lower social status, they play key roles in religious and social activities and contribute to family income through side work.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Teli are mostly Hindus who have ",
+          "bold": false
+        },
+        {
+          "text": "special rituals",
+          "bold": true
+        },
+        {
+          "text": " for weddings and childbirth, and funerals. They cremate their dead and scatter the ashes in holy rivers. They honor their ancestors and seek protection from evil spirits. Spiritually, they are practical and worship a “wish-fulfilling goddess” who they believe answers their prayers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Teli do not usually live in poverty, yet it is hard for them to access higher education and good career paths. More importantly, they need opportunities to meet the Risen Christ and embrace His teachings.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“…a crown of beauty instead of ashes, the oil of joy instead of mourning, and a garment of praise instead of a spirit of despair.”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Isaiah 61:3 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Teli people may meet the Risen Christ and receive the ",
+          "bold": false
+        },
+        {
+          "text": "oil of joy",
+          "bold": true
+        },
+        {
+          "text": " instead of the ashes of mourning.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for God to raise up local believers to share the good news, and for strength and courage for those who follow Jesus despite opposition.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that Teli women may find true peace and freedom in Christ, and hope for their families. Pray that their vital role in family and society would be recognized and honored.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Teli people would look to Jesus for spiritual protection. Pray that their fear of evil spirits would be replaced with joyful praise to God.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-21-map.png",
+    "source": "Joshua Project"
+  }
+}

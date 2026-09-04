@@ -1,0 +1,185 @@
+{
+  "day": 2,
+  "region": "Africa",
+  "peopleName": "Oromo Garre",
+  "personImage": {
+    "src": "assets/day-02-person.jpeg",
+    "source": "Erik Laursen, New Covenant Missions"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "741,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Garre, some speak Somali"
+    },
+    {
+      "label": "Christian",
+      "value": "Less than 0.01%"
+    },
+    {
+      "label": "Bible Translation Status",
+      "value": "Started"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Garre people have a mixed history with both the Somali and Oromo groups. Traditionally they are seen as part of the Somali clan system and were important in southern Somalia, helping to build influential towns like Barawe and Kismayo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "But many of them (especially in Ethiopia and Kenya) intermarried with the Oromo people and also follow their traditions.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Today they live in Somalia and Kenya. Their identity and language does change depending on the location This is why many see them as",
+          "bold": false
+        },
+        {
+          "text": "bridge people",
+          "bold": true
+        },
+        {
+          "text": "in that area.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Their main living revolves around community and herds (camels, goats, cattle and sheep). They are traditionally nomadic, often living in portable huts, which they set up in circles, with their life stock in the middle. Some engage in small-scale trading, especially exchanging livestock for grain and other goods.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Oromo Garre converted to Islam in the 1400s and today are almost entirely Muslim, practicing their orthodox faith very strictly. Most of them have never heard the gospel. Those who have heard closed their hearts because of the fear that Christianity would undermine their identity, community and traditions.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Oromo Garre people are unique in their blend of Somali and Oromo culture.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The word “Garre” comes from Somali and means “",
+          "bold": false
+        },
+        {
+          "text": "a strong rope",
+          "bold": true
+        },
+        {
+          "text": ", used to tie camels”. It symbolizes strength and connections. In other dialects it can mean “justice” or even “my home”.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "And though a man might prevail against one who is alone, two will withstand him—",
+          "bold": false
+        },
+        {
+          "text": "a threefold cord",
+          "bold": true
+        },
+        {
+          "text": "is not quickly broken.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Ecclesiastes 4:12 (ESV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that Jesus will bring peace and strength to Garre communities binding them together with the threefold cord of the triune God.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Garre will know that Jesus wants to call their whole families and neighbourhoods into a relationship with Him.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for Christian workers to be called to reach out to the Garre and to relate in good friendships with Garre families building trust in the word of God.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that Garre believers will share God’s Word wisely with their families and friends and become true",
+          "bold": false
+        },
+        {
+          "text": "bridgebuilders",
+          "bold": true
+        },
+        {
+          "text": "for the gospel in this diverse subregion.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that Garre family leaders will open their hearts and join family Bible studies to learn about God’s love.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-02-map.png",
+    "source": "Joshua Project"
+  }
+}

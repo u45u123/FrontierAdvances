@@ -1,0 +1,161 @@
+{
+  "day": 12,
+  "region": "India",
+  "peopleName": "Dhobi",
+  "personImage": {
+    "src": "assets/day-12-person.jpg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "17,000,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism"
+    },
+    {
+      "label": "Language",
+      "value": "Hindi"
+    },
+    {
+      "label": "Christian",
+      "value": "0.02%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Dhobi are an occupational caste traditionally engaged in ",
+          "bold": false
+        },
+        {
+          "text": "washing",
+          "bold": true
+        },
+        {
+          "text": " and ironing clothes. They live where they work, often in dark, dirty, and extremely cramped conditions that may be overflowing with water or other liquids. Frequently, ten or more people live in a space no larger than a bathroom.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Dhobis are recognized by the Constitution of India as a Scheduled Caste community, although in some regions they are categorized under Other Backward Classes. In India, Dhobis are largely engaged in their traditional occupation—",
+          "bold": false
+        },
+        {
+          "text": "laundry",
+          "bold": true
+        },
+        {
+          "text": "—due to social exclusion in daily life. They face the effects of untouchability and social inequality because they are born into a caste associated with an “unclean” profession.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "In 2017, the Supreme Court of India noted that calling someone a “Dhobi” is offensive. Today, the term is often used not to denote a caste but to intentionally insult or humiliate someone. With many customers now using washing machines, numerous Dhobis are facing unemployment. Many find it difficult to transition to other professions due to limited educational and vocational opportunities. They need access to education, vocational training, and economic support to improve their socio-economic status and explore alternatives to traditional occupations.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "It is so sad that the Dhobis do the ",
+          "bold": false
+        },
+        {
+          "text": "laundry",
+          "bold": true
+        },
+        {
+          "text": " for other people every day, but no one has ever cared about their need to be cleansed spiritually. No one pays attention to their dedication and sacrifice. They have no dignity, no honor, and struggle with poverty, injustice, and discrimination every day. If Jesus had come to India today, He would have chosen to go to the Dhobis, minister to them, and bring them the gospel and love.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“Wash away all my iniquity and cleanse me from my sin.”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Psalm 51:2 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Dhobi people will hear the gospel and discover ",
+          "bold": false
+        },
+        {
+          "text": "that only Jesus Christ can wash away their sins.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Dhobi people will know that they are welcomed and accepted into God’s family and how the Lord will restore their honour and dignity.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Holy Spirit will give the Dhobi people such spiritual hunger that they will not be satisfied until they taste and see that the Lord is good.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Lord will give Gospel workers strategies to work with the Dhobi.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that effective social and medical programs will be implemented for the Dhobi.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-12-map.png",
+    "source": "Joshua Project"
+  }
+}

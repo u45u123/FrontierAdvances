@@ -1,0 +1,153 @@
+{
+  "day": 23,
+  "region": "Latin America",
+  "peopleName": "FPGs in the Amazon",
+  "personImage": {
+    "src": "assets/day-23-person.jpeg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "400 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Ethnic Religion"
+    },
+    {
+      "label": "Language",
+      "value": "Matis"
+    },
+    {
+      "label": "Christian",
+      "value": "0.01%"
+    },
+    {
+      "label": "Bible",
+      "value": "Translation Started"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "There are 17 FPGs in the Amazon. The Matis people are one of the FPGs in the Amazon. The Matis are a small tribe in the northeastern Brazilian Amazon, vulnerable to disease and often exploited by outsiders. There are no Christian resources in their language, and there are very few if any followers of Christ among them.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "About half of the Matis have moved to towns for education and work, adopting a more urban lifestyle. Those who remain in the forest rely on hunting, gathering, fishing, and growing manioc. Their life expectancy is low, around 45 years due to disease and limited medical care. Rural Matis marry within the tribe and have many children, though many do not survive to age ten. More young Matis are leaving the rainforest and moving away from their grandparents’ traditional way of life.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Matis believe in a life force called “xo,” which they try to influence through rituals and offerings. Some also think spirits inhabit rivers, trees, mountains, animals, and the sky, and that these spirits must be appeased to avoid harm. They ",
+          "bold": false
+        },
+        {
+          "text": "live in fear",
+          "bold": true
+        },
+        {
+          "text": " of offending this life force or the spirits, though they do not worship spirits or ancestors.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Christian teams can offer the Matis modern medicine and provide water filters for clean water. Most importantly, the Matis need to hear the good news of Jesus Christ, who alone can forgive their sins and free them from the fear of evil spirits.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“For ",
+          "bold": false
+        },
+        {
+          "text": "he has rescued us",
+          "bold": true
+        },
+        {
+          "text": " from the dominion of darkness and brought us into the kingdom of the Son he loves.”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Colossians 1:13 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Matis will be ",
+          "bold": false
+        },
+        {
+          "text": "delivered from the fear",
+          "bold": true
+        },
+        {
+          "text": " of spirits and brought into God’s kingdom, experiencing the freedom, peace, truth, and hope found in Jesus Christ.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for spiritual breakthrough, that the darkness of their traditional beliefs will be lifted by the light of Christ.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for protection and healing, that God would deliver them from disease, exploitation, and spiritual oppression.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray that the Matis living in towns will encounter the gospel through other believers.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for workers to bring the gospel in ways the Matis can understand, despite the lack of Christian resources in their language.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-23-map.jpeg",
+    "source": "Wikimedia"
+  }
+}

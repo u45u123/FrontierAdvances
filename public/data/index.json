@@ -1,0 +1,207 @@
+{
+  "regions": {
+    "Africa": {
+      "color": "#CFA28F"
+    },
+    "Arabs": {
+      "color": "#B7B281"
+    },
+    "India": {
+      "color": "#D66F4E"
+    },
+    "Latin America": {
+      "color": "#9DAFBE"
+    },
+    "Other Asia": {
+      "color": "#B69CB4"
+    }
+  },
+  "days": [
+    {
+      "day": 1,
+      "region": "Africa",
+      "peopleName": "Fulani / Fulbe",
+      "file": "data/day-01.json"
+    },
+    {
+      "day": 2,
+      "region": "Africa",
+      "peopleName": "Oromo Garre",
+      "file": "data/day-02.json"
+    },
+    {
+      "day": 3,
+      "region": "Africa",
+      "peopleName": "Somali",
+      "file": "data/day-03.json"
+    },
+    {
+      "day": 4,
+      "region": "Arabs",
+      "peopleName": "Arabs as an Affinity Group",
+      "file": "data/day-04.json"
+    },
+    {
+      "day": 5,
+      "region": "Arabs",
+      "peopleName": "Yemeni",
+      "file": "data/day-05.json"
+    },
+    {
+      "day": 6,
+      "region": "Arabs",
+      "peopleName": "Arabic-speaking Algerian",
+      "file": "data/day-06.json"
+    },
+    {
+      "day": 7,
+      "region": "Arabs",
+      "peopleName": "Fezara",
+      "file": "data/day-07.json"
+    },
+    {
+      "day": 8,
+      "region": "Arabs",
+      "peopleName": "Sudanese Arab",
+      "file": "data/day-08.json"
+    },
+    {
+      "day": 9,
+      "region": "India",
+      "peopleName": "FPGs in India",
+      "file": "data/day-09.json"
+    },
+    {
+      "day": 10,
+      "region": "India",
+      "peopleName": "Baghban",
+      "file": "data/day-10.json"
+    },
+    {
+      "day": 11,
+      "region": "India",
+      "peopleName": "Brahmin",
+      "file": "data/day-11.json"
+    },
+    {
+      "day": 12,
+      "region": "India",
+      "peopleName": "Dhobi",
+      "file": "data/day-12.json"
+    },
+    {
+      "day": 13,
+      "region": "India",
+      "peopleName": "Kalal Idiga",
+      "file": "data/day-13.json"
+    },
+    {
+      "day": 14,
+      "region": "India",
+      "peopleName": "Kapu",
+      "file": "data/day-14.json"
+    },
+    {
+      "day": 15,
+      "region": "India",
+      "peopleName": "Kumhar",
+      "file": "data/day-15.json"
+    },
+    {
+      "day": 16,
+      "region": "India",
+      "peopleName": "Kurmi",
+      "file": "data/day-16.json"
+    },
+    {
+      "day": 17,
+      "region": "India",
+      "peopleName": "Mahratta",
+      "file": "data/day-17.json"
+    },
+    {
+      "day": 18,
+      "region": "India",
+      "peopleName": "Rajput",
+      "file": "data/day-18.json"
+    },
+    {
+      "day": 19,
+      "region": "India",
+      "peopleName": "Satani",
+      "file": "data/day-19.json"
+    },
+    {
+      "day": 20,
+      "region": "India",
+      "peopleName": "Shaikh",
+      "file": "data/day-20.json"
+    },
+    {
+      "day": 21,
+      "region": "India",
+      "peopleName": "Teli",
+      "file": "data/day-21.json"
+    },
+    {
+      "day": 22,
+      "region": "India",
+      "peopleName": "Yadav",
+      "file": "data/day-22.json"
+    },
+    {
+      "day": 23,
+      "region": "Latin America",
+      "peopleName": "FPGs in the Amazon",
+      "file": "data/day-23.json"
+    },
+    {
+      "day": 24,
+      "region": "Other Asia",
+      "peopleName": "FPGs in Dagestan",
+      "file": "data/day-24.json"
+    },
+    {
+      "day": 25,
+      "region": "Other Asia",
+      "peopleName": "FPGs in Tukangbesi of Sulawesi",
+      "file": "data/day-25.json"
+    },
+    {
+      "day": 26,
+      "region": "Other Asia",
+      "peopleName": "FPGs in Iran",
+      "file": "data/day-26.json"
+    },
+    {
+      "day": 27,
+      "region": "Other Asia",
+      "peopleName": "Malay of Malaysia",
+      "file": "data/day-27.json"
+    },
+    {
+      "day": 28,
+      "region": "Other Asia",
+      "peopleName": "Maldivian",
+      "file": "data/day-28.json"
+    },
+    {
+      "day": 29,
+      "region": "Other Asia",
+      "peopleName": "Nuristani",
+      "file": "data/day-29.json"
+    },
+    {
+      "day": 30,
+      "region": "Other Asia",
+      "peopleName": "Pattani Malay",
+      "file": "data/day-30.json"
+    },
+    {
+      "day": 31,
+      "region": "Other Asia",
+      "peopleName": "Sylheti",
+      "file": "data/day-31.json"
+    }
+  ]
+}

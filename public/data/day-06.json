@@ -1,0 +1,173 @@
+{
+  "day": 6,
+  "region": "Arabs",
+  "peopleName": "Arabic-speaking Algerian",
+  "personImage": {
+    "src": "assets/day-06-person.jpeg",
+    "source": "Basel2019 - Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "36,947,700 spread over 8 countires (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Language",
+      "value": "Algerian Arabic"
+    },
+    {
+      "label": "Christian",
+      "value": "Less than 0.1%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "The Arab population in Algeria traces its roots to the 7th-century Islamic conquests. The Prophet Muhammad’s campaign unified the Arabian Peninsula, leading to the rapid expansion of the Arab-Islamic empire. Before the Arab conquests, North Africa was inhabited by Berber tribes (Imazighen), who spoke Afroasiatic languages and had a distinct cultural identity. Over time, the Islamic influence led to a gradual process of Arabization.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Algerian Arabic includes Berber vocabulary and syntax as well as words from other languages. Classical Arabic is also spoken along with Berber languages.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Algeria is mainly Sunni Muslim, with restrictive laws on non-Muslim religious activities. Christianity, especially among the Kabyle Berbers, faces ",
+          "bold": false
+        },
+        {
+          "text": "significant persecution",
+          "bold": true
+        },
+        {
+          "text": ", most evangelical churches have been closed by the government.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Arabic-speaking Arabs of Algeria remain one of the world’s least reached people groups, with an evangelical presence below 0.01%. Strategic investment, long-term presence, and persistent prayer are essential to see the kingdom of God take root among this frontier people group",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“Then you will know the truth, and the truth will set you",
+          "bold": false
+        },
+        {
+          "text": "free",
+          "bold": true
+        },
+        {
+          "text": "….. if the Son sets you",
+          "bold": false
+        },
+        {
+          "text": "free",
+          "bold": true
+        },
+        {
+          "text": ", you will be",
+          "bold": false
+        },
+        {
+          "text": "free",
+          "bold": true
+        },
+        {
+          "text": "indeed.”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "John 8:31-39 (NIV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that the Arab speaking Algerians will encounter the truth of Jesus Christ, so that they may know the truth that sets people ",
+          "bold": false
+        },
+        {
+          "text": "free",
+          "bold": true
+        },
+        {
+          "text": ". May God open hearts to His Word and His presence.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "A wave of ",
+          "bold": false
+        },
+        {
+          "text": "freedom",
+          "bold": true
+        },
+        {
+          "text": " will come to the countries where there are Arab Algerians: As of 2024, only 4 out of 47 Protestant churches remain officially open. This makes evangelism and discipleship among Arabic-speaking populations particularly challenging. Pray for the Christian leaders to stand strong in their faith.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray God would give resilience to Algeria’s Christians in the face of persecution: The growth of Christianity, especially among the Kabyle Berbers, has led to increased scrutiny and persecution by the Algerian government.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for the establishment of spiritually mature, culturally sensitive mission teams in the 23 countries.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-06-map.png",
+    "source": "Britannica"
+  }
+}

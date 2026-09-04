@@ -1,0 +1,153 @@
+{
+  "day": 24,
+  "region": "Other Asia",
+  "peopleName": "FPGs in Dagestan",
+  "personImage": {
+    "src": "assets/day-24-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "3,182,054 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Islam"
+    },
+    {
+      "label": "Christian",
+      "value": "0.01%"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Dagestan, or the Republic of Dagestan, is one of 22 autonomous republics within the Russian Federation situated in the North Caucasus, near to the west coast of the Caspian Sea. It is one of the most ethnically and linguistically diverse regions in the world, home to over 30 languages and 14 officially recognised ethnic groups. Many of these languages are unique to small mountain communities and have been preserved for centuries.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Despite their diversity, the peoples of Dagestan share a long and connected history. Islam became established by the 15th century, blending with local traditions. Russian influence began in the 18th century, with Dagestan becoming part of the Soviet Union in 1921. After the collapse of the USSR in 1991, instability and corruption increased. During the Chechen wars and early 2000s, Dagestan faced militancy and extremism, which Russia claimed to have suppressed by 2017.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Today most people in Dagestan are Muslim, and different ethnic groups live together peacefully, united by their common religion. The capital, Makhachkala, is an important Islamic centre. However, Mountain Jews and Christian Cossacks also live in Dagestan. Despite outside pressures, each group keeps its own language, culture, and traditions. This helps them maintain a strong ethnic ",
+          "bold": false
+        },
+        {
+          "text": "identity",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The biggest ethnic group in Dagestan is the Avars, of whom less than 0.1% are Christian. One prominent Avar Christian, Pastor Artur Suleimenov was murdered outside his Church in Makhachkala in July 2010. His church was known for outreach to former Muslims, drug addicts, and prisoners, and had over 1,000 members, 80% of whom were converts from Islam. His death was widely seen as an attempt to intimidate Muslim background believers and discourage others from following Jesus.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Ministry to Dagestanis is hindered by the Russian government, who do not want outside influences in the region. Family and societal pressures also prevent people from leaving Islam, which most consider to be treachery to their ethnic group.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are ",
+          "bold": false
+        },
+        {
+          "text": "all one in Christ Jesus",
+          "bold": true
+        },
+        {
+          "text": ".”",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Galatians 3:28",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "In Dagestan, Islam is deeply tied to ethnic ",
+          "bold": false
+        },
+        {
+          "text": "identity",
+          "bold": true
+        },
+        {
+          "text": ", and Christianity is sometimes viewed with suspicion as a ‘Russian religion’. Pray against this lie and pray that hearts would open to the gospel’s true message of hope, love, and ",
+          "bold": false
+        },
+        {
+          "text": "freedom",
+          "bold": true
+        },
+        {
+          "text": " in Jesus.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for God to reveal Himself as the Creator of all peoples and the only Saviour of people from every nation, tribe and tongue, including the people of Dagestan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pray for the few believers in the region that they would have a deepening knowledge of their ",
+          "bold": false
+        },
+        {
+          "text": "identity in Christ",
+          "bold": true
+        },
+        {
+          "text": ", the ability to stand against family pressures, and boldness to share their faith.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-24-map.webp",
+    "source": "Britannica"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "day": 15,
+  "region": "India",
+  "peopleName": "Kumhar",
+  "personImage": {
+    "src": "assets/day-15-person.jpg",
+    "source": "Yann Forget - Wikimedia Licensed under CC BY-SA 4.0"
+  },
+  "statistics": [
+    {
+      "label": "Population",
+      "value": "18,279,000 (as of Aug 2025)"
+    },
+    {
+      "label": "Religion",
+      "value": "Hinduism"
+    },
+    {
+      "label": "Language",
+      "value": "Hindi"
+    },
+    {
+      "label": "Christian",
+      "value": "0.01%"
+    },
+    {
+      "label": "Bible-New Testament",
+      "value": "Yes"
+    },
+    {
+      "label": "Bible Complete",
+      "value": "Yes"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Old Indian stories say the Kumhar are the children of Lord Brahma (Prajapati). Because of this, some Kumhar use Prajapati as their last name. They claim that they were the first to make the wheel. Their name means ",
+          "bold": false
+        },
+        {
+          "text": "people who make clay pots.",
+          "bold": true
+        },
+        {
+          "text": " Kumhar people live all over India and speak local languages.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Kumhar people are honest, hardworking, and spiritual. Most Kumhar earn money by farming, keeping animals, and making clay pots and clay idols. However, this work is seasonal and not steady. It is often not enough to make a living. Many Kumhar farmers work on land owned by higher castes and receive only a part of the crops at harvest.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Kumhar need new job skills and better schools for their children. Education is hard because many Kumhars move from place to place. Children often leave school early to help their parents earn money. They also usually lack modern medicine and clean water.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "The Kumhar are Hindu and pray to the Lord Shiva, the destroyer god and Goddess Mother Mata.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Now in a great house there are not only ",
+          "bold": false
+        },
+        {
+          "text": "vessels",
+          "bold": true
+        },
+        {
+          "text": " of gold and silver but also of wood and clay, some for honorable use, some for dishonorable. Therefore, if anyone cleanses himself from what is dishonorable, he will be a ",
+          "bold": false
+        },
+        {
+          "text": "vessel",
+          "bold": true
+        },
+        {
+          "text": " for honorable use, set apart as holy, useful to the master of the house, ready for every good work.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "2 Timothy 2:20-21 (ESV)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Pray that they may know they are ",
+          "bold": false
+        },
+        {
+          "text": "vessels",
+          "bold": true
+        },
+        {
+          "text": " made by God’s own hands in His image, and that even now, God wants to shape them with His powerful hands.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Praise God for giving them the honesty, hard work, and spiritual character He has already placed in them. Pray that they may show God’s nature and declare His glory through these qualities.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-15-map.png",
+    "source": "Joshua Project"
+  }
+}
