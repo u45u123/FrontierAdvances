@@ -17,7 +17,6 @@
     <link rel="stylesheet" href="styles.css" />
     <title>Frontier Advances</title>
 
-    <!-- KakaoTalk In-app Browser Bypass Script Start -->
     <style>
       /* iOS In-app Browser Guide Modal Style */
       #inapp-guide {
@@ -49,7 +48,27 @@
         font-size: 3rem;
         margin-bottom: 1rem;
       }
+
+      /* Android PWA Install Button Style */
+      #install-btn {
+        display: none; /* Hidden by default, shown via JS when installable */
+        width: 100%;
+        padding: 1rem;
+        background-color: #173d35;
+        color: white;
+        border: none;
+        font-size: 1.1rem;
+        font-weight: bold;
+        cursor: pointer;
+        text-align: center;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+      #install-btn:hover {
+        background-color: #112d27;
+      }
     </style>
+
+    <!-- KakaoTalk In-app Browser Bypass Script -->
     <script>
       (function() {
         var userAgent = navigator.userAgent.toLowerCase();
@@ -57,12 +76,11 @@
 
         // Check if the browser is KakaoTalk
         if (userAgent.indexOf('kakaotalk') !== -1) {
-          
-          // 1. Android: Automatically open in an external browser (e.g., Chrome)
+          // 1. Android: Automatically open in an external browser
           if (userAgent.indexOf('android') !== -1) {
             window.location.href = 'kakaotalk://web/openExternal?url=' + encodeURIComponent(targetUrl);
           } 
-          // 2. iOS (iPhone/iPad): Show guide modal as auto-redirect is not supported
+          // 2. iOS (iPhone/iPad): Show guide modal
           else if (userAgent.indexOf('iphone') !== -1 || userAgent.indexOf('ipad') !== -1) {
             document.addEventListener("DOMContentLoaded", function() {
               document.getElementById('inapp-guide').classList.add('show');
@@ -71,8 +89,6 @@
         }
       })();
     </script>
-    <!-- KakaoTalk In-app Browser Bypass Script End -->
-
   </head>
   <body>
     <!-- iOS Guide Modal UI (Visible only to iOS users accessing via KakaoTalk) -->
@@ -92,9 +108,14 @@
         <select id="daySelect" aria-label="Select prayer day"></select>
       </label>
     </header>
+
+    <!-- Android PWA Install Button -->
+    <button id="install-btn" aria-label="Install App">📱 Install App to Home Screen</button>
+
     <main id="top" class="page" aria-live="polite">
       <p class="loading">Loading today’s prayer…</p>
     </main>
+
     <template id="entryTemplate">
       <article class="prayer-entry">
         <section class="hero section">
@@ -129,6 +150,38 @@
         </section>
       </article>
     </template>
+
     <script type="module" src="app.js"></script>
+
+    <!-- PWA Install Button Script (Android only) -->
+    <script>
+      let deferredPrompt;
+      const installBtn = document.getElementById('install-btn');
+
+      window.addEventListener('beforeinstallprompt', (e) => {
+        // Prevent the default browser install prompt from showing
+        e.preventDefault();
+        // Save the event so it can be triggered later
+        deferredPrompt = e;
+        // Show our custom install button
+        installBtn.style.display = 'block';
+      });
+
+      installBtn.addEventListener('click', async () => {
+        if (deferredPrompt) {
+          // Show the install prompt
+          deferredPrompt.prompt();
+          // Wait for the user to respond to the prompt
+          const { outcome } = await deferredPrompt.userChoice;
+          
+          // If the user accepts, hide the button
+          if (outcome === 'accepted') {
+            installBtn.style.display = 'none';
+          }
+          // Clear the deferredPrompt variable, it can only be used once
+          deferredPrompt = null;
+        }
+      });
+    </script>
   </body>
 </html>
