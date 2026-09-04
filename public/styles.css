@@ -1,11 +1,230 @@
-:root { --ink:#18332d; --paper:#f8f4ea; --forest:#173d35; --sand:#e5cf92; --line:#d9d1c0; --region-color:#CFA28F; }
-* { box-sizing:border-box; }
-html { scroll-behavior:smooth; }
-body { margin:0; color:var(--ink); background:var(--paper); font-family:Georgia, 'Times New Roman', serif; line-height:1.65; }
-.loading,.load-error { margin:4rem 1.25rem; padding:1rem 1.25rem; background:#fff; border-left:5px solid var(--forest); }.load-error { border-color:#a43d2c; color:#702015; }
-.topbar { position:sticky; top:0; z-index:10; display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:.85rem max(1.25rem, calc((100vw - 720px)/2)); background:rgba(23,61,53,.96); color:#fff; box-shadow:0 1px 8px #0002; }
-.brand { color:#fff; text-decoration:none; font-family:Arial, sans-serif; font-weight:800; letter-spacing:.03em; }.brand span { display:block; font-size:.66rem; font-weight:400; letter-spacing:.12em; text-transform:uppercase; }
-.day-picker { font:600 .82rem Arial,sans-serif; display:grid; gap:.18rem; }.day-picker select { max-width:180px; padding:.35rem .45rem; border:0; border-radius:.2rem; color:var(--forest); }
-.page { max-width:720px; margin:auto; }.section { padding:2.5rem 1.25rem; }.hero { padding-block:3.5rem 2.75rem; background:var(--region-color); color:#fff; }.eyebrow { margin:0 0:.35rem; font:700 .78rem Arial,sans-serif; letter-spacing:.18em; color:#fff; }.hero h1 { margin:0; font-size:clamp(2.25rem,9vw,4.5rem); line-height:1.03; }.region { margin:.9rem 0 0; color:#fff; font-family:Arial,sans-serif; }
-h2 { margin:0 0:1rem; color:var(--forest); font:800 1.05rem Arial,sans-serif; letter-spacing:.08em; text-transform:uppercase; }.photo-section,.map-section { padding:0 0 2rem; background:#fff; }.person-image,.map-image { display:block; width:100%; max-height:560px; object-fit:cover; }.map-image { object-fit:contain; background:#fff; }.credit { margin:.65rem 1.25rem 0; color:#69736e; font: .78rem Arial,sans-serif; }.stats-section { background:var(--region-color); color:#fff; }.stats-section h2 { color:#fff; }.stats { display:grid; grid-template-columns:minmax(120px, .75fr) 1.25fr; margin:0; border-top:1px solid #ffffff80; }.stats dt,.stats dd { padding:.6rem 0; margin:0; border-bottom:1px solid #ffffff80; }.stats dt { font-weight:bold; }.general-section { background:#fff; }.rich-text p { margin:0 0:1.05rem; }.scripture-section { background:#f1e6c8; }.scripture { font-size:1.12rem; font-style:italic; }.scripture p:last-child { font-style:normal; font-weight:bold; }.prayer-section { background:#e0eee5; }.prayers { margin:0; padding-left:1.3rem; }.prayers li { padding-left:.45rem; margin-bottom:1rem; }.map-section h2 { padding:2.5rem 1.25rem 0; }
-@media (max-width:520px) { .topbar { align-items:flex-start; }.brand { font-size:.9rem; }.day-picker select { width:145px; }.section { padding:2rem 1rem; } }
+:root {
+  --ink: #18332d;
+  --paper: #f8f4ea;
+  --forest: #173d35;
+  --sand: #e5cf92;
+  --line: #d9d1c0;
+  --region-color: #CFA28F;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: Georgia, 'Times New Roman', serif;
+  line-height: 1.65;
+}
+
+.loading,
+.load-error {
+  margin: 4rem 1.25rem;
+  padding: 1rem 1.25rem;
+  background: #fff;
+  border-left: 5px solid var(--forest);
+}
+
+.load-error {
+  border-color: #a43d2c;
+  color: #702015;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: .85rem max(1.25rem, calc((100vw - 720px) / 2));
+  background: rgba(23, 61, 53, .96);
+  color: #fff;
+  box-shadow: 0 1px 8px #0002;
+}
+
+.brand {
+  color: #fff;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-weight: 800;
+  letter-spacing: .03em;
+}
+
+.brand span {
+  display: block;
+  font-size: .66rem;
+  font-weight: 400;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.day-picker {
+  font: 600 .82rem Arial, sans-serif;
+  display: grid;
+  gap: .18rem;
+}
+
+.day-picker select {
+  max-width: 180px;
+  padding: .35rem .45rem;
+  border: 0;
+  border-radius: .2rem;
+  color: var(--forest);
+}
+
+.page {
+  max-width: 720px;
+  margin: auto;
+}
+
+.section {
+  padding: 2.5rem 1.25rem;
+}
+
+.hero {
+  padding-block: 3.5rem 2.75rem;
+  background: var(--region-color);
+  color: #fff;
+}
+
+.eyebrow {
+  margin: 0 0 .35rem;
+  font: 700 .78rem Arial, sans-serif;
+  letter-spacing: .18em;
+  color: #fff;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(2.25rem, 9vw, 4.5rem);
+  line-height: 1.03;
+}
+
+.region {
+  margin: .9rem 0 0;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  margin: 0 0 1rem;
+  color: var(--forest);
+  font: 800 1.05rem Arial, sans-serif;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.photo-section,
+.map-section {
+  padding: 0 0 2rem;
+  background: #fff;
+}
+
+.person-image,
+.map-image {
+  display: block;
+  width: 100%;
+  max-height: 560px;
+  object-fit: cover;
+}
+
+.map-image {
+  object-fit: contain;
+  background: #fff;
+}
+
+.credit {
+  margin: .65rem 1.25rem 0;
+  color: #69736e;
+  font: .78rem Arial, sans-serif;
+}
+
+.stats-section {
+  background: var(--region-color);
+  color: #fff;
+}
+
+.stats-section h2 {
+  color: #fff;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: minmax(120px, .75fr) 1.25fr;
+  margin: 0;
+  border-top: 1px solid #ffffff80;
+}
+
+.stats dt,
+.stats dd {
+  padding: .6rem 0;
+  margin: 0;
+  border-bottom: 1px solid #ffffff80;
+}
+
+.stats dt {
+  font-weight: bold;
+}
+
+.general-section {
+  background: #fff;
+}
+
+.rich-text p {
+  margin: 0 0 1.05rem;
+}
+
+.scripture-section {
+  background: #f1e6c8;
+}
+
+.scripture {
+  font-size: 1.12rem;
+  font-style: italic;
+}
+
+.scripture p:last-child {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.prayer-section {
+  background: #e0eee5;
+}
+
+.prayers {
+  margin: 0;
+  padding-left: 1.3rem;
+}
+
+.prayers li {
+  padding-left: .45rem;
+  margin-bottom: 1rem;
+}
+
+.map-section h2 {
+  padding: 2.5rem 1.25rem 0;
+}
+
+@media (max-width: 520px) {
+  .topbar {
+    align-items: flex-start;
+  }
+  .brand {
+    font-size: .9rem;
+  }
+  .day-picker select {
+    width: 145px;
+  }
+  .section {
+    padding: 2rem 1rem;
+  }
+}
