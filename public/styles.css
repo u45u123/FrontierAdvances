@@ -301,13 +301,11 @@ html[lang="zh-Hans"] .rich-text strong {
 
 @media (max-width: 520px) {
   .topbar {
-    flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     gap: .45rem;
   }
   .brand {
     font-size: .9rem;
-    text-align: center;
   }
   .day-picker,
   .language-picker {
@@ -321,7 +319,6 @@ html[lang="zh-Hans"] .rich-text strong {
   }
   .topbar-controls {
     gap: .45rem;
-    justify-content: center;
   }
   .section {
     padding: 2rem 1rem;
