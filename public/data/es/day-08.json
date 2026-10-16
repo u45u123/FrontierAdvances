@@ -1,0 +1,177 @@
+{
+  "day": 8,
+  "region": "Árabes",
+  "peopleName": "Árabes sudaneses",
+  "personImage": {
+    "src": "assets/day-08-person.jpeg",
+    "source": "David Haberlah - Wikimedia, Licensed under CC BY-SA 3.0"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "15,087,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Árabe sudanés"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Menos de 0.05%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los árabes sudaneses son descendientes de beduinos nómadas que se trasladaron a la zona desde Arabia Saudita y se casaron con tribus africanas locales. Se distinguen de otras tribus de la zona en que su lengua materna es el árabe sudanés y no hablan ninguna lengua tribal. Algunos de ellos siguen siendo nómadas, y muchos viven en zonas rurales, dedicándose a la agricultura.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Sudán está en estado de guerra civil desde 2018. Las dos facciones desvían la mayor parte de la ayuda monetaria para sí mismas, dejando a menudo a la población sin agua ni electricidad. Debido a la gran inestabilidad, muchas personas han sido desplazadas tanto interna como externamente. Fuera de Sudán, la mayor población de árabes sudaneses (4 millones) se encuentra en Egipto.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "La mitad de la población de Sudán tiene menos de 18 años, pero toda una generación ha recibido poca o nada de educación debido al caos político.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los árabes sudaneses son musulmanes, pero la brujería sigue desempeñando un papel importante en su vida diaria. Poco a poco, algunos están llegando a Cristo a través de relaciones personales y discipulado uno a uno. Sudán tiene muchos cristianos, pero la Iglesia es cautelosa en el evangelismo de musulmanes por miedo a una reacción negativa del gobierno. Cuando Sudán se dividió en norte y sur, el 60% de los líderes cristianos se trasladaron al sur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que la situación desesperada en Sudán haga que los árabes sudaneses busquen la verdad y encuentren a Aquel que es el camino, la verdad y la vida. Que Jesús se revele como la ",
+          "bold": false
+        },
+        {
+          "text": "Luz ",
+          "bold": true
+        },
+        {
+          "text": "del mundo, a los corazones que verdaderamente buscan la ",
+          "bold": false
+        },
+        {
+          "text": "Luz",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "El pueblo que andaba en tinieblas vio gran ",
+          "bold": false
+        },
+        {
+          "text": "luz",
+          "bold": true
+        },
+        {
+          "text": "; los que moraban en tierra de",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "sombra de muerte, ",
+          "bold": false
+        },
+        {
+          "text": "luz",
+          "bold": true
+        },
+        {
+          "text": " resplandeció sobre ellos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Isaías 9:2 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Que Dios haga brilla Su ",
+          "bold": false
+        },
+        {
+          "text": "luz",
+          "bold": true
+        },
+        {
+          "text": " en el caos e instabilidad de Sudán. Orar por la misericordia de Dios sobre la nación y la gente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que la Iglesia y los creyentes en Sudán tengan visión y denuedo para ser luz para sus vecinos árabes sudaneses.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por los árabes sudaneses, que busquen la luz y la verdad y que encuentren a Jesús, la luz del mundo. Que Dios les dé luz a estos buscadores, con sueños y visiones, y que se acerquen a cristianos para pedir oración.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que Dios envíe obreros a la mies y mostrarles Sus estrategias para alcanzar a los árabes sudaneses.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-08-map.png",
+    "source": "Joshua Project"
+  }
+}

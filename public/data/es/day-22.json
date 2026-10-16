@@ -1,0 +1,169 @@
+{
+  "day": 22,
+  "region": "India",
+  "peopleName": "Yadav",
+  "personImage": {
+    "src": "assets/day-22-person.jpeg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "57,595,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0-0.1%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los yadav eran tradicionalmente pastores y vendedores de leche, quizá de Asia Central. Se identifican estrechamente con su deidad de casta, Krishna. Sin embargo, la mayoría de los yadav hoy en día cultivan, mientras que menos de un tercio trabaja con vacas. Viven casi por toda la India y en el sur de Nepal. La mayor concentración se encuentra en los estados de Uttar Pradesh y Bihar (norte de la India). Los yadav viven en familias extendidas. La mayoría son vegetarianos, pero muchos han empezado a comer pescado, cordero, pollo y a veces cerdo, pero no res.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los yadav son vistos como social y educativamente atrasados. Son uno de los pueblos más numerosos de otras castas atrasadas (OBC).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los yadav tienen ",
+          "bold": false
+        },
+        {
+          "text": "tradiciones orales",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "expertas y cantos grupales ",
+          "bold": true
+        },
+        {
+          "text": "sobre sus dioses: Krishna, Vishnu y otros. Ellos reclaman a Krishna como su ancestro de sangre y por eso le están especialmente devotos. Para protegerse de las maldiciones, los yadav confiaban en amuletos, astrólogos y sanadores tradicionales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Sus vidas y niveles de vida están cambiando en todo el país. La próxima generación necesitará buscar otros tipos de empleos, pero falta una educación adecuada en muchos lugares.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los yadav de la India son el quinto grupo de personas no alcanzadas más grande del mundo y el tercero más grande de la India. Se dicen que sólo el 0.002% de ellos son seguidores de Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Necesitan escuchar sobre el camino de la salvación. La mayoría de los yadav muere sin oír el nombre de Jesús ni una sola vez. En los últimos años hay algunas familias y pueblos enteros de yadav que se están acercando a Cristo, algunos liderados por seguidores yadav de Jesús.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "El pueblo que andaba en la oscuridad ha visto una gran luz; sobre los que vivían en tierra de sombra de muerte una luz ha resplandecido.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Isaías 9:2 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que Dios bendiga los yadav, para que los que andan en las tinieblas puedan ver Su gran luz.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Señor traiga a los yadav a aquellos que puedan compartir Sus palabras y Su amor con ellos, e invitarlos a comunidades de discipulado.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Señor levante artistas yadav para ",
+          "bold": false
+        },
+        {
+          "text": "cantar el evangelio ",
+          "bold": true
+        },
+        {
+          "text": "en maneras que esparcen fácilmente entre toda la comunidad.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por los yadav jóvenes que no pueden ganarse la vida de las maneras tradicionales. Orar que su búsqueda los lleva a mejores trabajos y hacia Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por las familias y aldeas que están acercándose a Jesús, por valor, esperanza, perseverancia y gozo.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-22-map.png",
+    "source": "Joshua Project"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "day": 29,
+  "region": "Asia otros",
+  "peopleName": "Nuristani",
+  "personImage": {
+    "src": "assets/day-29-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "356,300 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "5 locales"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.0%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: No; Biblia completa: No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "El término 'nuristaní' se refiere a las personas que viven en la remota provincia de Nuristán, en el noreste de Afganistán y en las regiones del norte de Pakistán. Hablan varias lenguas del grupo lingüístico nuristaní. Étnicamente, el grupo de nuristanes abarca ocho grupos: los ashkuni- wamayi, narisati, grangali, kambiri, malakhel, waigeli, prasuni y tregami.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El contacto inicial entre los obreros cristianos y el pueblo de Nuristán ocurrió de forma indirecta. En aquel entonces, Nuristán era conocido como Kafiristán (tierra de los Kafires). Kafires significa no musulmanes. El contacto llegó a través del ejército colonial británico, especialmente del Cuerpo de Guías. Entre sus reclutas, en Peshawar, había individuos de Kafiristán que habían estado expuestos a enseñanzas cristianas mientras servían en el ejército.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Un soldado kafir que mostró interés en aprender más sobre el cristianismo instó a los obreros cristianos a visitar su tierra natal en Kafiristán. En 1864, dos pastunes convertidos al cristianismo, actuando por invitación de soldados kafir, realizaron el primer viaje misionero registrado a Kafiristán. Su misión incluía la enseñanza cristiana, la distribución de escrituras traducidas (en un idioma comercial) y la prestación de asistencia médica a las comunidades locales. Fueron recibidos positivamente. Al partir ellos, la gente local envió una carta solicitando que regresaran con más enseñanzas. No pudieron regresar. Hay registros de otras personas que visitaron Kafiristán durante las décadas siguientes, pero en 1896 la población fue convertida por la fuerza al islam y Kafiristán fue renombrado como Nuristán, 'tierra de ",
+          "bold": false
+        },
+        {
+          "text": "luz",
+          "bold": true
+        },
+        {
+          "text": "'.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Debido a la situación política y la ubicación geográfica de Nuristán, es muy difícil tener acceso a esta región remota. En las décadas recientes, obreros cristianos han traído equipos médicos a Nuristán; algunos perdieron la vida y otros sufrieron gran trauma. Por la inseguridad actual, no es posible que extranjeros viajen a esta región de Afganistán.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El pueblo nuristani vive principalmente como agricultores y pastores. Los hombres trabajan con ganado y las mujeres cultivan cereales o trabajan en terrazas irrigadas. Orar para que pronto escuchen las noticias de que hay un buen pastor que los ama y los cuida.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Otra vez Jesús les habló, diciendo: Yo soy la ",
+          "bold": false
+        },
+        {
+          "text": "luz ",
+          "bold": true
+        },
+        {
+          "text": "del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la ",
+          "bold": false
+        },
+        {
+          "text": "luz ",
+          "bold": true
+        },
+        {
+          "text": "de la vida.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Juan 8:12 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los creyentes afganis alrededor del mundo sean conmovidos para orar por el pueblo nuristani, y que busquen al Señor acerca de su papel en servirles.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por esta generación de nuristani, que encuentre la verdadera fuente de ",
+          "bold": false
+        },
+        {
+          "text": "luz ",
+          "bold": true
+        },
+        {
+          "text": "a la que algunos de sus antepasados fueron expuestos y buscaron.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los nuristani que viven en Kabul y en otros lugares tengan la oportunidad para escuchar las Buenas Nuevas y llevarlas a su propia gente.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que el acceso a esta región remota sea posible una vez más para que puedan entrar suministros médicos y muchos recursos necesarios.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-29-map.jpeg",
+    "source": "Joshua Project"
+  }
+}

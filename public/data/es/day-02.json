@@ -1,0 +1,193 @@
+{
+  "day": 2,
+  "region": "África",
+  "peopleName": "Oromo Garre",
+  "personImage": {
+    "src": "assets/day-02-person.jpeg",
+    "source": "Erik Laursen, New Covenant Missions"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "741,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Garre, algunos hablan somalí"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Menos de 0.01%"
+    },
+    {
+      "label": "Traducción bíblica",
+      "value": "Empezada"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "El pueblo garre tiene una historia mixta tanto con los grupos somalí como con los oromo. Tradicionalmente se considera parte del sistema de clanes somalí y fueron importantes en el sur de Somalia, ayudando a construir ciudades influyentes como Barawe y Kismayo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pero muchos de ellos (especialmente en Etiopía y Kenia) se casaron con el pueblo oromo y también siguen sus tradiciones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hoy viven en Somalia y Kenia. Su identidad y su idioma cambian según la ubicación. Por eso muchos los ven como ",
+          "bold": false
+        },
+        {
+          "text": "personas puente ",
+          "bold": true
+        },
+        {
+          "text": "en esa zona.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Su principal vida gira en torno a la comunidad y los rebaños (camellos, cabras, ganado y ovejas). Tradicionalmente son nómadas, y a menudo viven en chozas portátiles las cuales organizan en círculos, con su ganado en el centro. Algunos se dedican al comercio a pequeña escala, especialmente intercambiando ganado por grano y otros bienes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los oromo garre se convirtieron al islam en el siglo XV y hoy son casi en su totalidad musulmanes, practicando su fe ortodoxa de forma muy estricta. La mayoría nunca ha escuchado el evangelio. Quienes lo han escuchado han cerrado su corazón por miedo a que el cristianismo socave su identidad, comunidad y tradiciones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los oromo garre son únicas en su mezcla de las culturas somalí y oromo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "La palabra \"garre\" viene del somalí y significa \"una ",
+          "bold": false
+        },
+        {
+          "text": "cuerda fuerte",
+          "bold": true
+        },
+        {
+          "text": ", usada para amarrar los camelos\". Simboliza fuerza y conexiones. En otros dialectos puede significar \"justicia\" o aun \"mi hogar\".",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Uno solo puede ser vencido, pero dos pueden resistir. iLa ",
+          "bold": false
+        },
+        {
+          "text": "cuerda de tres hilos ",
+          "bold": true
+        },
+        {
+          "text": "no se rompe fácilmente!",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Eclesiastés 4:12 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que Jesús traiga paz y fortaleza a las comunidades garre, uniéndolas con el cordón triple del Dios Triuno.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los garre sepan que Jesús quiere llamar a sus familias y vecindarios enteros a una relación con Él.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los trabajadores cristianos sean llamados a acercarse a los garre y a relacionarse en buenas amistades con las familias garre, construyendo la confianza en la palabra de Dios.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los creyentes garre compartan sabiamente la Palabra de Dios con sus familias y amigos y se conviertan en verdaderos ",
+          "bold": false
+        },
+        {
+          "text": "constructores",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "de puentes ",
+          "bold": true
+        },
+        {
+          "text": "para el evangelio en esta subregión diversa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por los líderes de las familias garre, que abran su corazón y se unan a estudios bíblicos familiares para aprender sobre el amor de Dios.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-02-map.png",
+    "source": "Joshua Project"
+  }
+}

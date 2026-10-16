@@ -1,0 +1,161 @@
+{
+  "day": 14,
+  "region": "India",
+  "peopleName": "Kapu",
+  "personImage": {
+    "src": "assets/day-14-person.jpg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "16,085,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Telugu"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "La palabra telugu 'kapu' significa \"agricultor\" o \"",
+          "bold": false
+        },
+        {
+          "text": "protector",
+          "bold": true
+        },
+        {
+          "text": "\". La comunidad kapu tiene diferentes grupos como balija, munnuru kapu, telaga y turpu kapu. También se les llama naidu, que significa líder. En el pasado, los kapu eran principalmente soldados y agricultores. Lucharon en guerras y se dedicaron a la agricultura en tiempos de paz.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hoy en día, la mayoría de los kapu viven en los estados del sur de la India: Andhra Pradesh, Telangana y Tamil Nadu. Los Kapu son una de las comunidades más grandes de la India (alrededor del 18% en Andhra Pradesh) y está ganando influencia en política.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Son descendientes de la tribu kaampu, una tribu indo-aria. Los kapu están clasificados como casta avanzada tanto por el Gobierno Central de la India como por el Gobierno de Andhra Pradesh. De media, se les considera económica y educativamente superiores a otras castas. A fecha de 2023, no ofrecen cuotas ni reservas basadas en castas. Los kapu se han unido para luchar por sus derechos políticos en el sistema de castas. También han organizado sindicatos agrícolas para proteger su modo de vida. Un número significativo de kapu se ha diversificado hoy en la industria, las artes y la academia. También son políticamente activos, defendiendo sus derechos e intereses.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El pueblo kapu está profundamente ligado a su fe hindú, estilo de vida agrario, tradiciones del pueblo y un creciente sentido de identidad social. Aunque arraigados en la adoración tradicional y la reverencia ancestral, su vida espiritual está evolucionando con los tiempos cambiantes, incorporando movimientos más amplios y prácticas de crecimiento personal.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "El SEÑOR es quien ",
+          "bold": false
+        },
+        {
+          "text": "te cuida",
+          "bold": true
+        },
+        {
+          "text": "; el SEÑOR es tu sombra a tu mano derecha. De día el sol no te hará daño ni la luna de noche. El SEÑOR ",
+          "bold": false
+        },
+        {
+          "text": "te cuidará",
+          "bold": true
+        },
+        {
+          "text": "; de todo mal guardará tu vida. El SEÑOR ",
+          "bold": false
+        },
+        {
+          "text": "cuidará",
+          "bold": true
+        },
+        {
+          "text": " tu salida y tu entrada, desde ahora y para siempre.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmo 121:5-8 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar por el pueblo kapu, que conozca y experimente que Dios ",
+          "bold": false
+        },
+        {
+          "text": "es su protector",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que Dios abra sus ojos para ver los límites del sistema de castas, y su incapacidad para defender sus propios derechos políticos, para que lleguen en arrepentimiento al Señor, el Rey eterno.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que Dios rompa las cadenas de los costumbres y tradiciones relacionados con las creencias hindúes, y que los dirija a la verdad para que disfruten la libertad que Dios da.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que Dios levante a personas que orará por la tribu kapu, amarlos profundamente, y servirles con el corazón de Jesús.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-14-map.png",
+    "source": "Joshua Project"
+  }
+}

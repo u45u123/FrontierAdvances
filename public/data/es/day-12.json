@@ -1,0 +1,173 @@
+{
+  "day": 12,
+  "region": "India",
+  "peopleName": "Dhobi",
+  "personImage": {
+    "src": "assets/day-12-person.jpg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "17,000,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.02%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los dhobi son una casta profesional tradicionalmente dedicada a ",
+          "bold": false
+        },
+        {
+          "text": "lavar ",
+          "bold": true
+        },
+        {
+          "text": "y planchar la ropa. Viven donde trabajan, a menudo en condiciones oscuras, sucias y extremadamente estrechas que pueden estar rebosadas de agua u otros líquidos. Con frecuencia, diez o más personas viven en un espacio que no es más grande que un baño.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los dhobi están reconocidos por la Constitución de la India como una comunidad de castas desfavorecidas (scheduled), aunque en algunas regiones se les clasifica como 'otras clases atrasadas'. En la India, los dhobi se dedican principalmente a su ocupación tradicional (",
+          "bold": false
+        },
+        {
+          "text": "la lavandería",
+          "bold": true
+        },
+        {
+          "text": ") debido a la exclusión social en la vida diaria. Sufren los efectos de la intocabilidad y la desigualdad social porque nacen en una casta asociada a una profesión \"impura\".",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "En 2017, el Tribunal Supremo de la India señaló que llamar a alguien \"dhobi\" es ofensivo. Hoy en día, el término a menudo no se usa para denotar una casta, sino para insultar o humillar intencionalmente a alguien. Con muchos clientes que ahora utilizan lavadoras, numerosos dhobi están enfrentando el desempleo. Muchos encuentran difícil hacer la transición a otras profesiones debido a las limitadas oportunidades educativas y profesionales. Necesitan acceso a la educación, formación profesional y apoyo económico para mejorar su estatus socioeconómico y explorar alternativas a las ocupaciones tradicionales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Es muy triste que los dhobi hacen ",
+          "bold": false
+        },
+        {
+          "text": "lavandería ",
+          "bold": true
+        },
+        {
+          "text": "para otras personas todos los días, pero que a nadie le ha importado su necesidad de ser limpiados espiritualmente. Nadie reconoce su dedicación ni sacrificio. No tienen nada de dignidad ni honra, y luchan todos los días con la pobreza, la injusticia y la discriminación. Si Jesús hubiera venido a la India hoy, habría elegido llegar a los dhobi, ministrarlos y traerlos el evangelio y su amor.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Lávame ",
+          "bold": true
+        },
+        {
+          "text": "de toda mi maldad y límpiame de mi pecado.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmo 51:2 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar que los dhobi escuchen el evangelio y descubran ",
+          "bold": false
+        },
+        {
+          "text": "que solamente",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "Jesucristo pueden lavarlos",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "de sus pecados",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que los dhobi entiendan que son bienvenidos y aceptados en la familia de Dios, y que el Señor restaurará su honor y dignidad.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que el Espíritu Santo dé al pueblo dhobi un hambre spiritual tal que no serán satisfechos hasta probar y ver que el Señor es bueno.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Señor les dé a los obreros del evangelio las estrategias para trabajar con los dhobi.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-12-map.png",
+    "source": "Joshua Project"
+  }
+}

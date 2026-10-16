@@ -1,0 +1,178 @@
+{
+  "day": 28,
+  "region": "Asia otros",
+  "peopleName": "Maldivos",
+  "personImage": {
+    "src": "assets/day-28-person.jpg",
+    "source": "Pexels"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "529,676 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Maldivo"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Solamente Lucas y Hechos; Biblia completa: No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los maldivos siguen siendo de l",
+          "bold": false
+        },
+        {
+          "text": "os",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "menos evangelizados en la tierra",
+          "bold": true
+        },
+        {
+          "text": ". Ni el trabajo misionero ni la literatura cristiana han sido permitidos jamás. El gobierno niega la existencia del cristianismo entre los maldivos mientras arresta a quienes creen. Actualmente, solo el Evangelio de Lucas y los Hechos están disponibles en divehi (maldivo), pero ni siquiera esos están permitidos para entrar en la nación.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Las Maldivas sufre una de las tasas de divorcio más altas del mundo, con aumento de la criminalidad, un aumento de las actividades de bandas, abuso infantil generalizado y consumo generalizado de drogas entre adolescentes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "¿Por qué han permanecido como un",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "grupo no alcanzado durante tanto",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "tiempo?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "En Las Maldivas, las personas que viven en una isla solo pueden mudarse a otra isla o visitarlas por un corto tiempo con permiso especial del jefe de la aldea que gobierna la isla. Con una población promedia de poco más de 1.500 personas por isla, y personas que se casan entre 5 y 10 veces cada una, esto significa que todas las personas de una isla acaban siendo emparentadas entre sí. Esto dificulta que reciban influencias externas.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Como el SEÑOR le había hablado, Agar le puso por nombre 'El Dios que me ve', pues se decía: 'Ahora he visto ",
+          "bold": false
+        },
+        {
+          "text": "al que me, ve",
+          "bold": true
+        },
+        {
+          "text": "'.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Génesis 16:13 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Aunque los maldivos están aislados del evangelio tanto geográfico como políticamente, Dios los ve. Orar para que ellos reconozcan el ",
+          "bold": false
+        },
+        {
+          "text": "Dios que los",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "ve",
+          "bold": true
+        },
+        {
+          "text": ", y que lo busquen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar en contra de las fortalezas del orgullo, el miedo y la búsqueda egoísta de los placeres físicos que han cegado los ojos de los maldivos y evitan que vean a Dios.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hay 20,000 maldivos diáspora viviendo en Sri Lanka. Orar por los cristianos de Sri Lanka, que puedan realmente verlos, y compartir el evangelio con ellos, y que los maldivos que viven en el extranjero sean salvos y regresen con la misericordia de Dios hacia su propio pueblo, llegando a ser semillas del evangelio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que pronto se termine la traducción de la Biblia al divehi, y por la distribución de las Escrituras (quizá electrónicamente) para que los maldivos vean la Palabra de Dios.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-28-map.jpg",
+    "source": "WorldAtlas",
+    "layout": "portrait"
+  }
+}

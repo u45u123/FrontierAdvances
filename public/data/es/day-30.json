@@ -1,0 +1,181 @@
+{
+  "day": 30,
+  "region": "Asia otros",
+  "peopleName": "Pattani Malay",
+  "personImage": {
+    "src": "assets/day-30-person.jpeg",
+    "source": "Flickr"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "1,567,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Malayo Pattani"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los malayos pattani son descendientes de musulmanes malayos que adoptaron el islam desde el siglo XIV. Su fe islámica ha dado a los patani una identidad distintiva en la Tailandia budista. Son una comunidad muy unida y se sienten muy orgullosos de ser malayos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "La mayoría de los malayos patani viven en las tres provincias más meridionales de Tailandia: Pattani, Yala y Narathiwat. Constituyen más del 80% de la población de estas provincias. También se encuentran en partes de la provincia de Songkhla. Algunos malayos pattani viven alrededor de Bangkok. Narathiwat es una de las provincias más pobres de Tailandia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Muchos malayos pattani viven en aldeas rurales y se ganan la vida pescando, pintando barcos llamados kolae, extrayendo caucho y cultivando frutas y verduras. Los malayos patani han sufrido ",
+          "bold": false
+        },
+        {
+          "text": "opresión ",
+          "bold": true
+        },
+        {
+          "text": "gubernamental debido a los disturbios continuos y el conflicto armado vinculado al Frente Nacional Revolucionario Malayo de Pattani (BRN).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "A principios del siglo XIX, comenzó un fuerte movimiento misionero desde El Occidente en toda Tailandia. Los misioneros realizaron contribuciones significativas a las comunidades fronterizas tailandesas en los campos de la medicina, la educación y la religión. En 1953, un misionero entró en la provincia de Yala y comenzó el ministerio. En las décadas de 1960 y 1970, más misioneros entraron en la zona de Pattani para realizar trabajo misionero. A pesar de los continuos esfuerzos misioneros, ¿por qué el pueblo patani sigue siendo un PF?",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El pueblo pattani el cual ha vivido en Tailandia por generaciones, aún los llaman 'kunak' que significa 'huésped'. Oramos por que pronto los malayos pattani ",
+          "bold": false
+        },
+        {
+          "text": "estén libres de opresión ",
+          "bold": true
+        },
+        {
+          "text": "y lleguen a ser ciudadanos del Reino de Dios, y no solamente huéspedes en su propio país.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "El SEÑOR es ",
+          "bold": false
+        },
+        {
+          "text": "refugio de",
+          "bold": true
+        },
+        {
+          "text": " los oprimidos",
+          "bold": true
+        },
+        {
+          "text": "; es su baluarte en momentos de angustia. En ti confían los que conocen tu nombre, porque tú, SEÑOR, jamás abandonas a los que te buscan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmos 9:9-10 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los malayos patani sepan que Dios es ",
+          "bold": false
+        },
+        {
+          "text": "una",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "fortaleza para los oprimidos",
+          "bold": true
+        },
+        {
+          "text": " y un sanador para los heridos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Espíritu Santo abra corazones y ojos para ver que Dios se preocupa profundamente por los oprimidos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por un movimiento misionero renovado entre iglesias locales, globales y organizaciones misioneras para llegar al malayo pattani.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por la paz de Dios en la región de Pattani y para que la gente encuentre la fuente de la vida en Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Algunos cristianos están apoyando con trabajos de socorro tras las graves inundaciones de 2025. Orar para que este ministerio impacte a los malayos pattani tanto ahora como en el futuro.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-30-map.webp",
+    "source": "Wikipedia"
+  }
+}

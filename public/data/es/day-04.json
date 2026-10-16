@@ -1,0 +1,173 @@
+{
+  "day": 4,
+  "region": "Árabes",
+  "peopleName": "Árabes como grupo de afinidad",
+  "personImage": {
+    "src": "assets/day-04-person.jpeg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "139,929,000 (PF solamente desde agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Árabe"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0-0.1%"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "El Bloque de Afinidad del Mundo Árabe incluye a personas cuya cultura y origen provienen de la Península Arábiga. La mayoría habla árabe. La religión principal es el islam. La cultura árabe afecta a cómo visten las personas, en qué creen y en cómo viven cada día.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Las personas del bloque de afinidad árabe se encuentran principalmente en el Medio Oriente, el norte de África, el Cuerno de África, y en comunidades de diáspora en todo el mundo. Los árabes sudaneses están incluidos en el Bloque de Afinidad Árabe según lo definido por el Joshua Project (el Proyecto Josué).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Dado que el islam es la religión dominante entre este grupo de afinidad, es importante orar por los muchos peregrinos que viajan cada año a La Meca desde los países anteriores.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Arabia Saudita es el lugar de nacimiento y ",
+          "bold": false
+        },
+        {
+          "text": "bastión del islam",
+          "bold": true
+        },
+        {
+          "text": ". Desde La Meca, el islam tiene influencia sobre miles de millones y toca muchas culturas en todo el mundo. Cada año, miles de millones de dólares en ingresos petroleros se utilizan para promover el islam a nivel global. Si aquí ocurriera un avance espiritual para Jesucristo, podría traer una poderosa transformación al islam y a sus seguidores.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Todos los musulmanes deben orar mirando hacia La Meca cinco veces al día, y más de dos millones de musulmanes viajan allí cada año para la peregrinación conocida como Hajj. Orar para que muchos de los que buscan a Dios puedan encontrar al Cristo viviente, la fuente de la verdadera vida y la ",
+          "bold": false
+        },
+        {
+          "text": "verdad",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "\"Jesús le dijo: Yo soy el",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "camino, y la ",
+          "bold": false
+        },
+        {
+          "text": "verdad",
+          "bold": true
+        },
+        {
+          "text": ", y la vida; nadie viene al Padre, sino por mí.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Juan 14:6 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que muchos en el mundo árabe tengan el corazón abierto para recibir ",
+          "bold": false
+        },
+        {
+          "text": "la verdad de quién es Jesús",
+          "bold": true
+        },
+        {
+          "text": ", libres de miedo, confusión o malentendidos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que quienes trabajan entre los pueblos del Bloque de Afinidad Árabe establezcan relaciones profundas con sus vecinos, colegas y amigos. Orar por conversaciones que cambien la vida.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los sueños, visiones y encuentros con Jesús continuarán entre los pueblos árabes, y que tengan encuentros con creyentes que los enseñarán quién es Jesús de verdad.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los peregrinos a La Meca que realmente buscan a Dios y lo desean, le encuentren.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que las pequeñas comunidades cristianas que existen en esta región se fortalezcan en su fe y profundicen en su conocimiento y experiencia de Cristo.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-04-map.png",
+    "source": "Joshua Project"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "day": 9,
+  "region": "India",
+  "peopleName": "PF en India",
+  "personImage": {
+    "src": "assets/day-09-person.png",
+    "source": "Adnan Mughal - Pexels. Licensed under CC0 1.0"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "1,051,877,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Número desconocido"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "India es uno de los países más diversos del mundo, con miles de etnias distintas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los PF en India son grupos étnicos o de casta que ",
+          "bold": false
+        },
+        {
+          "text": "no han escuchado ",
+          "bold": true
+        },
+        {
+          "text": "el evangelio. Estos grupos suelen tener menos del 0.1% de su población identificándose como cristiana, y no existe ningún movimiento de iglesias autosuficiente entre ellos. India alberga el mayor número de grupos de personas fronterizos del mundo: más de 1,700 de aproximadamente 4,800 a nivel mundial, lo que la convierte en uno de los campos de misión más grandes hoy en día.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Muchos de estos grupos pertenecen a sistemas de castas hindúes, comunidades musulmanas o tribus indígenas. En 15 ciudades donde investigamos, alrededor del 50-95% de la población son PF. Viven en ciudades, pero mantienen una estrecha conexión con sus comunidades rurales. Hablan lenguas minoritarias y siguen creencias tradicionales, lo que hace que compartir el evangelio sea muy difícil. Barreras sociales como el trato injusto basado en castas, la negativa a aceptar a personas de otras religiones, y la pobreza los mantienen aislados.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "A pesar de estos desafíos, Dios desea que cada tribu y lengua llegue a conocerle. Para llegar a estos grupos, necesitamos oración enfocada, más obreros transculturales, compromiso a largo plazo, comprensión cultural y un fuerte desarrollo del liderazgo local. Siguen siendo algunas de las personas espiritualmente menos alcanzadas del mundo y necesitan urgentemente el testimonio amoroso y el acceso a la verdad de Jesucristo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Para alcanzarlas, se necesita métodos frescos y creatives dirigidos por el Espíritu Santo el cual involucra la movilización de más profesionistas y trabajadores comprometidos en el mercado tanto local como globalmente.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "\"¿Cómo, pues, invocarán",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "a aquel en el cual no han creído? ¿Y cómo creerán en aquel de quien ",
+          "bold": false
+        },
+        {
+          "text": "no han oído",
+          "bold": true
+        },
+        {
+          "text": "? ¿Y cómo oirán sin haber quien les predique?\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Romanos 10:14 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Espíritu Santo abra ",
+          "bold": false
+        },
+        {
+          "text": "nuevas maneras",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "para llegar a los PF ",
+          "bold": true
+        },
+        {
+          "text": "en las grandes ciudades, y que Dios envíe más obreros (Mateo 9:38) que respondan a estas nuevas oportunidades. Que vean los campos blancos para la cosecha (Juan 4:35), y que la gente esté lista para escuchar el evangelio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que ninguna etnia quede fuera, sino que todas sean adoptadas para la oración y el evangelismo (Mateo 9:37-38; 2 Cor. 10:16; 2 Pedro 3:9; Apocalipsis 7:9).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por enfoques culturalmente sensibles que permitan llegar eficazmente a los grupos fronterizos. Orar por un compromiso a largo plazo y paciencia en los esfuerzos ministeriales entre estas comunidades.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por ayuda práctica y recursos que cubran sus necesidades físicas y sociales junto con su alcance espiritual.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-09-map.png",
+    "source": "Joshua Project"
+  }
+}

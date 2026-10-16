@@ -1,0 +1,169 @@
+{
+  "day": 3,
+  "region": "África",
+  "peopleName": "Somalí",
+  "personImage": {
+    "src": "assets/day-03-person.jpeg",
+    "source": "Tosco.diaz-Flickr"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "16,288,200 en 16 países (PF solamente desde agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Somalí y árabe"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Menos de 0.03%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Completa y publicada por la Sociedad de la Biblia de Kenia en los 1970"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Más de 28 millones de somalíes viven en unos 35 países, la mitad de ellos en Somalia. La mayoría de los somalíes pertenece a uno de los cinco clanes principales, que moldean su vida social y política. La lealtad al clan es muy importante, y muchas decisiones se toman a través de los ancianos del clan y las redes familiares.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Aproximadamente entre el 60 y el 70% de los somalí son nómadas o seminómadas. Se desplazan con sus animales para buscar agua y hierba. La vida en el campo es dura, con poco acceso a escuelas, hospitales o agua potable. Sólo el 1.6% de la tierra es adecuada para la agricultura, y las sequías suelen causar hambre y desplazamientos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Somalia ha enfrentado muchos años de guerra y conflicto. Desde el colapso del gobierno en 1991, millones de personas se han visto obligadas a abandonar sus hogares. Algunos viven en campamentos dentro de Somalia, mientras que otros se han trasladado a países vecinos como Etiopía y Kenia o más allá.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Somalilandia (independiente desde 1991) y Puntlandia (autónoma desde 1998) en el norte parecen más estables y seguras gracias a estructuras fuertes de clanes, con menos luchas civiles y mejor infraestructura. Estas dos regiones tienen el potencial de ayudar a restaurar el sur.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Para los cristianos somalí, la vida es muy difícil. La mayoría debe mantener su fe en secreto debido a la fuerte presión social y el peligro. Muchos están aislados, sin iglesias ni amigos cristianos. Algunos enfrentan amenazas o violencia. Aun así, cada vez más personas se están convirtiendo en cristianos a través de los medios online y experiencias personales. Necesitan formas seguras de aprender, crecer y conectar con otros.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los somalíes tienen fama por su tradición oral rica, especialmente ",
+          "bold": false
+        },
+        {
+          "text": "poesía",
+          "bold": true
+        },
+        {
+          "text": ". Se usa la poesía para expresar emociones, compartir historia y resolver conflictos. Todavía en las áreas rurales, la gente memoriza y recita poemas largos. ",
+          "bold": false
+        },
+        {
+          "text": "Poetas",
+          "bold": true
+        },
+        {
+          "text": " son respetados en la sociedad, y concursos de poemas son habituales.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Puso en mis labios un ",
+          "bold": false
+        },
+        {
+          "text": "cantico nuevo",
+          "bold": true
+        },
+        {
+          "text": ", un himno de alabanza a nuestro Dios. Al ver esto, muchos tuvieron miedo y pusieron su confianza en el SEÑOR.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmo 40:3 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "¡Que los somalíes se expresan con canciones y poemas nuevos de esperanza y alabanza de Dios en medio del conflicto, trauma, desplazamiento y aflicción!",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que la palabra de Dios sea recitada y los creyentes respetados en la sociedad somalí por la verdad, belleza y esperanza que la Biblia expresa.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que los medios cristianos y plataformas en línea toquen los corazones de la gente con el evangelio conforme presenten las buenas nuevas en maneras ricas y tradicionales, creativas y poéticas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que muchos somalíes vean a Jesús y pongan su fe en Él. Que encuentren fortaleza y crecimiento spiritual en el compañerismo con Cristo y otros creyentes, compartiendo sus vidas y el evangelio con denuedo, con sus bocas llenas de alabanza.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que el Señor envíe más obreros y cantadores de sus alabanzas a los somalíes en los próximos meses.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-03-map.png",
+    "source": "Joshua Project"
+  }
+}

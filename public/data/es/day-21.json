@@ -1,0 +1,177 @@
+{
+  "day": 21,
+  "region": "India",
+  "peopleName": "Teli",
+  "personImage": {
+    "src": "assets/day-21-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "21,850,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los teli son una comunidad tradicional de ",
+          "bold": false
+        },
+        {
+          "text": "producción de aceite",
+          "bold": true
+        },
+        {
+          "text": " en la India. Su nombre proviene de la palabra sánscrita para aceite. Tradicionalmente pertenecen al tercer de los cuatro niveles del sistema de castas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "A medida que la extracción de petróleo se mecanizó, muchos de los teli ahora trabajan en labores agrícolas y laborales. Muchos no poseen tierras, y algunos se han registrado como \"Otras Castas Retrasadas\" para recibir apoyo gubernamental. Algunos teli trabajan en los negocios, el gobierno y la política.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El pueblo teli vive por toda la India. Un pequeño número vive en Bangladés, Nepal, Sri Lanka o Pakistán.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los ancianos teli arreglan matrimonios dentro de la comunidad, y las dotes se pagan en efectivo o con objetos de valor. Aunque las mujeres tienen un estatus social más bajo, desempeñan papeles clave en actividades religiosas y sociales y contribuyen a los ingresos familiares mediante trabajos extras.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los teli son en su mayoría hindúes que tienen ",
+          "bold": false
+        },
+        {
+          "text": "rituales especiales ",
+          "bold": true
+        },
+        {
+          "text": "para bodas, partos y funerales. Incineran a sus muertos y esparcen las cenizas en ríos sagrados. Honran a sus antepasados y buscan protección contra los espíritus malignos. Espiritualmente, son prácticos y adoran a una \"diosa que cumple deseos\" y creen que responde a sus oraciones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los teli por lo general no vive en la pobreza, pero es difícil para ellos tener acceso a la educación tercia y buenas carreras. Más importante, necesitan oportunidades para encontrarse con el Cristo resucitado y para abrazar Sus enseñanzas.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“…una corona en vez de cenizas, ",
+          "bold": false
+        },
+        {
+          "text": "aceite de alegría ",
+          "bold": true
+        },
+        {
+          "text": "en vez de luto, traje de alabanza en vez",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "de espíritu de desaliento.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Isaías 61:3 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los teli se encuentren con el Cristo resucitado y reciban el ",
+          "bold": false
+        },
+        {
+          "text": "aceite de alegría ",
+          "bold": true
+        },
+        {
+          "text": "en vez de las cenizas de luto.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que Dios levante creyentes locales para compartir las buenas nuevas, y por fuerzas y valentía para los que siguen a Jesús a pesar de la oposición.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por las mujeres teli, que hallen la verdadera paz y libertad en Cristo, y esperanza para sus familias. Que su papel vital en la familia y la sociedad sea reconocido y honrado.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que los teli miren a Jesús para la protección espiritual. Que su temor de los espíritus malignos sea reemplazado con alabanzas gozosas a Dios.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-21-map.png",
+    "source": "Joshua Project"
+  }
+}

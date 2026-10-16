@@ -1,0 +1,137 @@
+{
+  "day": 15,
+  "region": "India",
+  "peopleName": "Kumhar",
+  "personImage": {
+    "src": "assets/day-15-person.jpg",
+    "source": "Yann Forget - Wikimedia Licensed under CC BY-SA 4.0"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "18,279,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Las antiguas historias indias dicen que los kumhar son hijos del Señor Brahma (Prajapati). Por ello, algunos kumhar usan Prajapati como apellido. Afirman que fueron los primeros en fabricar la rueda. Su nombre significa \"",
+          "bold": false
+        },
+        {
+          "text": "personas que",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "fabrican vasijas de barro",
+          "bold": true
+        },
+        {
+          "text": "\". La gente kumhar vive por toda la India y habla lenguas locales.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El pueblo kumhar es honesto, trabajador y espiritual. La mayoría de los Kumhar gana dinero cultivando, criando animales y fabricando vasijas e ídolos de barro. Sin embargo, este trabajo es estacional y no constante. A menudo no es suficiente para ganarse la vida. Muchos agricultores kumhar trabajan en tierras propiedad de castas superiores y solo reciben una parte de las cosechas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los kumhar necesitan nuevas habilidades laborales y mejores escuelas para sus hijos. La educación es difícil porque muchos kumhar se trasladan de un lugar a otro. Los niños suelen abandonar la escuela antes de tiempo para ayudar a sus padres a ganar dinero. Además, suelen carecer de medicina moderna y agua limpia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los kumhar son hindúes y rezan al señor Shiva, el dios destructor y diosa Madre Mata",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Pero en una casa grande, no solamente hay ",
+          "bold": false
+        },
+        {
+          "text": "utensilios ",
+          "bold": true
+        },
+        {
+          "text": "de oro y de plata, sino también de madera y de barro; y unos son para usos honrosos, y otros para usos viles. Así que, si alguno se limpia de estas cosas, será instrumento para honra, santificado, útil al Señor, y dispuesto para toda buena obra.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "2 Timoteo 2:20-21 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar que puedan saber que son ",
+          "bold": false
+        },
+        {
+          "text": "vasijas ",
+          "bold": true
+        },
+        {
+          "text": "hechas por las propias manos de Dios, a Su imagen, y que Dios quiere formarlos con Sus poderosas manos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Alabar a Dios por haberles dado el carácter honesto, de trabajo duro y espiritual que ya puso en ellos. Orar para que lleguen a mostrar la naturaleza de Dios y declarar Su gloria por medio de estas cualidades.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-15-map.png",
+    "source": "Joshua Project"
+  }
+}

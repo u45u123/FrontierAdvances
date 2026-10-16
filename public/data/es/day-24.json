@@ -1,0 +1,149 @@
+{
+  "day": 24,
+  "region": "Asia otros",
+  "peopleName": "PF en Daguestán",
+  "personImage": {
+    "src": "assets/day-24-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "3,182,054 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Daguestán, o La República de Daguestán, es una de las 22 repúblicas autónomas dentro de la Federación Rusa ubicada en el Cáucaso Norte, cerca de la costa oeste del mar Caspio. Es una de las regiones más diversas étnica y lingüísticamente del mundo, hogar de más de 30 lenguas y 14 grupos étnicos oficialmente reconocidos. Muchas de estas lenguas son exclusivas de las pequeñas comunidades montañosas y se han conservado durante siglos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "A pesar de su diversidad, los pueblos de Daguestán comparten una historia larga y conectada. El islam se consolidó en el siglo XV, fusionándose con las tradiciones locales. La influencia rusa comenzó en el siglo XVIII, con Daguestán pasando a formar parte de la Unión Soviética en 1921. Tras el colapso de la URSS en 1991, la inestabilidad y la corrupción aumentaron. Durante las guerras de Chechenia y principios de los 2000, Daguestán se enfrentó a la militancia y el extremismo, que Rusia afirmó haber reprimido para 2017.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hoy en día, la mayoría de la gente en Daguestán es musulmana, y diferentes grupos étnicos conviven en paz, unidos por su religión común. La capital, Makhachkala, es un importante centro islámico. Sin embargo, judíos de montaña y cosacos cristianos también viven en Daguestán. A pesar de las presiones externas, cada grupo mantiene su propio idioma, cultura y tradiciones. Esto les ayuda a mantener una ",
+          "bold": false
+        },
+        {
+          "text": "identidad ",
+          "bold": true
+        },
+        {
+          "text": "étnica fuerte.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El grupo étnico más grande en Daguestán son los ávar, de los cuales menos del 0.1% son cristianos. Un destacado cristiano ávar, el pastor Artur Suleimenov, fue asesinado frente a su iglesia en Makhachkala en julio de 2010. Su iglesia era conocida por su labor de evangelismo a antiguos musulmanes, drogadictos y presos, y contaba con más de 1,000 miembros, de los cuales el 80% eran conversos del islam. Su muerte fue ampliamente vista como un intento de intimidar a los creyentes de origen musulmán y disuadir a otros de seguir a Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El ministerio a los daguestaní está obstaculizado por el gobierno ruso, que no quiere influencias externas en la región. Las presiones familiares y sociales también impiden que las personas abandonen el islam, lo que la mayoría considera una traición a su grupo étnico.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Ya no hay judío ni no judío, esclavo ni libre, hombre ni mujer, sino que todos ustedes son uno solo ",
+          "bold": false
+        },
+        {
+          "text": "en Cristo Jesús.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Gálatas 3:28 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "En Daguestán, el islam está atado fuertemente a la ",
+          "bold": false
+        },
+        {
+          "text": "identidad ",
+          "bold": true
+        },
+        {
+          "text": "étnica, y a veces se ve el cristianismo con sospecho como \"una religión rusa\". Orar en contra de esta mentira y que se abran los corazones al verdadero mensaje del evangelio, de esperanza, amor y libertad en Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que Dios se revele a Sí mismo como el Creador de todos los pueblos y el único Salvador de gente de cada nación, tribu y lengua, incluso el pueblo de Daguestán.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Ora por los pocos creyentes en la región, que reciban un conocimiento cada vez más profundo de su ",
+          "bold": false
+        },
+        {
+          "text": "identidad en",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "Cristo",
+          "bold": true
+        },
+        {
+          "text": ", la capacidad de quedarse firmes ante las presiones familiares, y denuedo para compartir su fe.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-24-map.webp",
+    "source": "Britannica"
+  }
+}

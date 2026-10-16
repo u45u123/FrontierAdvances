@@ -1,0 +1,177 @@
+{
+  "day": 20,
+  "region": "India",
+  "peopleName": "Shaikh",
+  "personImage": {
+    "src": "assets/day-20-person.jpg",
+    "source": "Mikhail Nilov - Pexels"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "82,690,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Urdu"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.00%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los shaikh son un grupo numeroso musulmán en Pakistán e India. Los musulmanes indios se encuentran aislados política y socialmente. Aunque tienen una población muy grande, su influencia política es pequeña y sus voces a menudo son i",
+          "bold": false
+        },
+        {
+          "text": "gnoradas o silenciadas",
+          "bold": true
+        },
+        {
+          "text": ".",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Las tensiones con Pakistán proyectaron una larga sombra sobre los musulmanes indios. Los nacionalistas hindúes enseñan a la gente a desconfiar de ellos. Las comunidades musulmanas a veces son llamadas \"mini pakistaníes\" e incluso consideradas espías. Esta idea se refuerza a través de la educación, los medios de comunicación y la socialización cotidiana. A muchos hindúes se les enseña desde pequeños que los musulmanes son ladrones, inmorales y poco fiables. Esto conduce a profundas ",
+          "bold": false
+        },
+        {
+          "text": "divisiones sociales ",
+          "bold": true
+        },
+        {
+          "text": "en barrios, colegios y relaciones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Aproximadamente el 90% de los musulmanes indios trabajan en empleos de baja calidad y con bajos salarios. Muchos están ",
+          "bold": false
+        },
+        {
+          "text": "excluidos ",
+          "bold": true
+        },
+        {
+          "text": "de una educación de calidad. Por eso, se les percibe ampliamente como sin educación y pobres, y aún más excluidos!",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Las castas hindúes más bajas luchan contra la pobreza, la exclusión y la discriminación sistémica, pero cuentan con algunas protecciones basadas en la casta. En la vida cotidiana, los musulmanes indios comparten muchas de estas luchas, pero sin ayuda gubernamental.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“… y tendré compasión de la que no recibió compasión, y diré al que no era mi pueblo: ",
+          "bold": false
+        },
+        {
+          "text": "Tú eres mi pueblo",
+          "bold": true
+        },
+        {
+          "text": ", y él dirá: Tú eres mi Dios.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Oseas 2:23 (LBLA)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Oramos para que Dios derrame Su amor por los shaikh en los corazones de los cristianos indios. Orar que los cristianos vean más allá de los estereotipos y que den la ",
+          "bold": false
+        },
+        {
+          "text": "bienvenida ",
+          "bold": true
+        },
+        {
+          "text": "a los shaikh a la familia de Dios.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que los shaik escuchen la i",
+          "bold": false
+        },
+        {
+          "text": "nvitación ",
+          "bold": true
+        },
+        {
+          "text": "del Señor: iVengan a las aguas todos los que tengan sed! ...y se deleitarán con manjares deliciosos... escúchenme y vivirán (Isaías 55:1-3).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Oramos por que los shaikh sean libertados de las condiciones opresivas en que viven.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que los shaikh busquen la paz y esperanza que vienen del Señor, en lugar de temer su situación actual.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Oramos por que los shaikh jóvenes que siguen la cultura islámica en los guetos escuchen a Jesús diciendo: Tú eres mi amado; eres mi pueblo. Que encuentren vida y esperanza en Jesús, y responden: Tú eres mi Dios.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-20-map.png",
+    "source": "Joshua Project"
+  }
+}

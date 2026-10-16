@@ -1,0 +1,153 @@
+{
+  "day": 5,
+  "region": "Árabes",
+  "peopleName": "Yemenís",
+  "personImage": {
+    "src": "assets/day-05-person.jpeg",
+    "source": "Rod Waddington - Flickr Licensed under CC BY-SA 2.0"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "34,350,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Árabe (varios dialectos)"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Menos de 0.1%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Disponible, pero la distribución es difícil"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Estratégicamente situado frente al mar Rojo al oeste, y al sur con el mar Arábigo, Yemen tiene una larga historia que se remonta a miles de años. El comercio con Arabia, Egipto, los países del Golfo e India ayudó a que los antiguos reinos yemeníes, incluido el bíblico ",
+          "bold": false
+        },
+        {
+          "text": "reino de Saba",
+          "bold": true
+        },
+        {
+          "text": ", prosperaran.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El cristianismo dominaba en algunas partes de Yemen en el siglo VI, pero luego los yemeníes se convirtieron en orgullosos y fervientes seguidores del islam, algunos incluso antes de la muerte de Mahoma en 632. Desde entonces, ser yemení significa ser musulmán. Los yemeníes zaydíes, como por ejemplo los hutíes, pertenecen a los chiítas y viven principalmente en las colinas del noroeste del país, mientras que los yemeníes suníes viven en el sur y el este, incluidas las ciudades costeras. Las tribus siguen desempeñando un papel importante en la vida cotidiana y en la política.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "En 1990, Yemen del Sur y Yemen del Norte se unieron y formaron la República de Yemen. Sin embargo, los conflictos continuaron y una guerra civil que comenzó en 2014 ha traído una miseria increíble a la mayoría de los yemeníes. Decenas de miles han muerto, muchos más han sido desplazados y la desnutrición es común entre los niños. Un alto el fuego 2022 generó algunas esperanzas de un futuro mejor, pero los ataques aéreos de fuerzas occidentales e Israel siguieron después de que los hutíes comenzaran a apoyar a Hamás en la guerra de Gaza.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El evangelismo cristiano comenzó de nuevo en el siglo XIX y se centró en el trabajo médico, la educación y capacitación en destrezas. A pesar de las guerras y los disturbios, el evangelio ha sido compartido fielmente, pero hasta muy reciente, muy pocos lo han aceptado. La gran mayoría de los más de 34 millones de yemenís no ha oído ni entendido el evangelio, y los creyentes no pueden reunirse abiertamente por temor a la persecución.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hoy, algunos yemenís viven en el extranjero, en países como Egipto, los Emiratos Unidos Árabes o el Reino Unido donde pueden encontrarse con más facilidad con seguidores de Cristo.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "“… vendrán ",
+          "bold": false
+        },
+        {
+          "text": "todos los de Sabá",
+          "bold": true
+        },
+        {
+          "text": "; traerán oro e incienso, y publicarán alabanzas de Jehová.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Isaías 60:6 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "El sufrimiento actual en Yemen, con frecuentes conflictos internos violentos, desplazamientos y desnutrición, contrasta fuertemente con las riquezas y ",
+          "bold": false
+        },
+        {
+          "text": "la belleza del antiguo Reino",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "de Sabá",
+          "bold": true
+        },
+        {
+          "text": ". Orar para que los yemeníes regresen de todo corazón a su Redentor y proclamen de nuevo las alabanzas del Señor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que las ONG cristianas y los trabajadores humanitarios brillen como una luz y sean como incienso en este país, para que muchos lleguen a experimentar arrepentimiento, restauración y renovación de sus almas, y que familias enteras sean rescatadas del sufrimiento, la culpa y la vergüenza.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Dar gracias a Dios por aquellos creyentes yemeníes que se han mantenido firmes en su fe, tanto dentro como fuera del país. Que su testimonio anime a más personas a encontrar nueva esperanza en Jesús. Orar para que los yemeníes vengan a Él, donde sus corazones puedan purificarse como oro y sus vidas presentarse como incienso",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-05-map.png",
+    "source": "Operation World"
+  }
+}

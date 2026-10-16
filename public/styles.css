@@ -50,29 +50,38 @@ body {
   box-shadow: 0 1px 8px #0002;
 }
 
+.topbar-controls {
+  display: flex;
+  align-items: center;
+  gap: .75rem;
+}
+
 .brand {
   color: #fff;
   text-decoration: none;
   font-family: Arial, sans-serif;
-  font-weight: 800;
+  font-size: .86rem;
+  font-weight: 400;
   letter-spacing: .03em;
 }
 
 .brand span {
   display: block;
-  font-size: .66rem;
+  font-size: inherit;
   font-weight: 400;
   letter-spacing: .12em;
   text-transform: uppercase;
 }
 
-.day-picker {
+.day-picker,
+.language-picker {
   font: 600 .82rem Arial, sans-serif;
   display: grid;
   gap: .18rem;
 }
 
-.day-picker select {
+.day-picker select,
+.language-picker select {
   max-width: 180px;
   padding: .35rem .45rem;
   border: 0;
@@ -100,6 +109,10 @@ body {
   font: 700 .78rem Arial, sans-serif;
   letter-spacing: .18em;
   color: #fff;
+}
+
+html[lang="ko"] .eyebrow {
+  font-size: 1rem;
 }
 
 .hero h1 {
@@ -141,6 +154,14 @@ h2 {
   background: #fff;
 }
 
+/* Let tall maps use the full width while keeping every part of the original image. */
+.map-section--portrait .map-image {
+  width: 100%;
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+}
+
 .credit {
   margin: .65rem 1.25rem 0;
   color: #69736e;
@@ -154,6 +175,12 @@ h2 {
 
 .stats-section h2 {
   color: #fff;
+}
+
+.stats-intro {
+  margin: 0 0 .7rem;
+  font-weight: 700;
+  line-height: 1.45;
 }
 
 .stats {
@@ -180,6 +207,29 @@ h2 {
 
 .rich-text p {
   margin: 0 0 0.1rem;
+}
+
+.rich-text strong {
+  font-weight: 800;
+  font-synthesis: weight;
+}
+
+/* The serif fallback used for body copy has no distinct Korean bold face on
+   some Apple devices. Use Korean UI fonts for emphasis so bold runs remain
+   visibly heavier. */
+html[lang="ko"] .rich-text strong {
+  font-family: "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  font-weight: 800;
+}
+
+html[lang="zh-Hant"] .rich-text strong {
+  font-family: "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+  font-weight: 700;
+}
+
+html[lang="zh-Hans"] .rich-text strong {
+  font-family: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  font-weight: 700;
 }
 
 .scripture-section {
@@ -214,15 +264,61 @@ h2 {
   padding: 0.2rem 1.25rem 0;
 }
 
+.closing-section {
+  background: var(--paper);
+}
+
+.closing-commission {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.closing-quotation {
+  margin: 0;
+  padding: 1.25rem;
+  color: #5b5b5b;
+  font: .78rem/1.55 Arial, sans-serif;
+}
+
+.scripture-quotations {
+  padding: 1.5rem 1.25rem 2.5rem;
+  color: #5b5b5b;
+  font: .72rem/1.45 Arial, sans-serif;
+}
+
+.scripture-quotations h2 {
+  margin-bottom: .75rem;
+  color: inherit;
+  font: 700 .82rem Arial, sans-serif;
+  letter-spacing: .03em;
+  text-transform: none;
+}
+
+.scripture-quotations p {
+  margin: 0 0 1rem;
+}
+
 @media (max-width: 520px) {
   .topbar {
     align-items: flex-start;
+    gap: .45rem;
   }
   .brand {
     font-size: .9rem;
   }
+  .day-picker,
+  .language-picker {
+    font-size: .72rem;
+  }
   .day-picker select {
-    width: 145px;
+    width: 112px;
+  }
+  .language-picker select {
+    width: 76px;
+  }
+  .topbar-controls {
+    gap: .45rem;
   }
   .section {
     padding: 2rem 1rem;

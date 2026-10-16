@@ -1,0 +1,185 @@
+{
+  "day": 17,
+  "region": "India",
+  "peopleName": "Mahratta",
+  "personImage": {
+    "src": "assets/day-17-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "36,204,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Marathi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.00%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los mahratta son orgullosos kshatriyas de Maharashtra, que hablan principalmente maratí. Están ubicados en todo Marathwaada, mientras que algunos se encuentran a lo largo de las fronteras con Karnataka. Un número menor vive más al oeste, en Pakistán.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pertenecen principalmente a los ",
+          "bold": false
+        },
+        {
+          "text": "niveles",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "superiores ",
+          "bold": true
+        },
+        {
+          "text": "de una sociedad rural. Principalmente \"kunbi\" (agricultores) de clase, casi todas las familias mahratta rurales poseen tierras y cultivan cultivos agrícolas. Las tierras suelen ser lo suficientemente grandes como para albergar tanto cultivos comerciales como alimentarios.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Son liberales en comparación con otros grupos indios. El matrimonio concertado no se impone estrictamente, y un niño puede casarse con una chica de su elección si ella es brahmán o maratha. Los mahratta son algo tolerantes con otras culturas. Pero al considerarse ",
+          "bold": false
+        },
+        {
+          "text": "de casta alta",
+          "bold": true
+        },
+        {
+          "text": ", suelen menospreciar a quienes consideran no su igual. El objetivo principal de una familia mahratta de clase media es un futuro seguro para ellos y sus hijos, por lo que el éxito financiero es una preocupación dominante.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los mahratta hindúes suelen adorar a Shiva como su dios familiar y consideran a Shivaji como su líder. La mayoría venera su tierra y su tierra como a su madre. Los mahratta defienden ferozmente su cultura, lengua e historia. Esto plantea un punto importante: el hinduismo es un aspecto fundamental de su cultura. Decirles que dejen de dar lealtad a estos dioses suele verse como un ataque a su cultura. El pueblo hindú mahratta necesita el discernimiento espiritual y la humildad necesaria para reconocer a Jesucristo por lo que Él es.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Y en ningún otro hay salvación; porque ",
+          "bold": false
+        },
+        {
+          "text": "no hay otro nombre ",
+          "bold": true
+        },
+        {
+          "text": "bajo el cielo, dado a los hombres, en que podamos ser salvos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hechos 4:12 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los que dependen de sus propias fuerzas, estatus o ",
+          "bold": false
+        },
+        {
+          "text": "superioridad cultural ",
+          "bold": true
+        },
+        {
+          "text": "lleguen a reconocer que la salvación solo se encuentra en Jesucristo. Orar que sus corazones ",
+          "bold": false
+        },
+        {
+          "text": "se hagan",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "humildes ",
+          "bold": true
+        },
+        {
+          "text": "y abiertos a la verdad del evangelio, que reconozcan que nadie puede salvarse por su propio poder sino solamente por medio del nombre de Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que las fuertes tradiciones e identidad de los mahratta no impidan que escuchen y reciban el evangelio. Orar por que la verdad de Jesús toque profundamente sus corazones.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Pedirle a Dios que les revele el camino a la verdadera salvación y vida eterna por medio de Su Hijo, y que reciban Su gracia y misericordia con humildad.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que el evangelio sea compartido en maneras poderosas y con sensibilidad cultural.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que pueblos y comunidades enteras experimenten la presencia de Dios.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-17-map.png",
+    "source": "Joshua Project"
+  }
+}

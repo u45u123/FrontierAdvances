@@ -1,0 +1,207 @@
+{
+  "regions": {
+    "África": {
+      "color": "#CFA28F"
+    },
+    "Árabes": {
+      "color": "#B7B281"
+    },
+    "India": {
+      "color": "#D66F4E"
+    },
+    "América Latina": {
+      "color": "#9DAFBE"
+    },
+    "Asia otros": {
+      "color": "#B69CB4"
+    }
+  },
+  "days": [
+    {
+      "day": 1,
+      "region": "África",
+      "peopleName": "Fulani / Fulbe",
+      "file": "data/es/day-01.json"
+    },
+    {
+      "day": 2,
+      "region": "África",
+      "peopleName": "Oromo Garre",
+      "file": "data/es/day-02.json"
+    },
+    {
+      "day": 3,
+      "region": "África",
+      "peopleName": "Somalí",
+      "file": "data/es/day-03.json"
+    },
+    {
+      "day": 4,
+      "region": "Árabes",
+      "peopleName": "Árabes como grupo de afinidad",
+      "file": "data/es/day-04.json"
+    },
+    {
+      "day": 5,
+      "region": "Árabes",
+      "peopleName": "Yemenís",
+      "file": "data/es/day-05.json"
+    },
+    {
+      "day": 6,
+      "region": "Árabes",
+      "peopleName": "Argelinos de habla árabe",
+      "file": "data/es/day-06.json"
+    },
+    {
+      "day": 7,
+      "region": "Árabes",
+      "peopleName": "Fezara",
+      "file": "data/es/day-07.json"
+    },
+    {
+      "day": 8,
+      "region": "Árabes",
+      "peopleName": "Árabes sudaneses",
+      "file": "data/es/day-08.json"
+    },
+    {
+      "day": 9,
+      "region": "India",
+      "peopleName": "PF en India",
+      "file": "data/es/day-09.json"
+    },
+    {
+      "day": 10,
+      "region": "India",
+      "peopleName": "Baghban",
+      "file": "data/es/day-10.json"
+    },
+    {
+      "day": 11,
+      "region": "India",
+      "peopleName": "Brahmin",
+      "file": "data/es/day-11.json"
+    },
+    {
+      "day": 12,
+      "region": "India",
+      "peopleName": "Dhobi",
+      "file": "data/es/day-12.json"
+    },
+    {
+      "day": 13,
+      "region": "India",
+      "peopleName": "Kalal Idiga",
+      "file": "data/es/day-13.json"
+    },
+    {
+      "day": 14,
+      "region": "India",
+      "peopleName": "Kapu",
+      "file": "data/es/day-14.json"
+    },
+    {
+      "day": 15,
+      "region": "India",
+      "peopleName": "Kumhar",
+      "file": "data/es/day-15.json"
+    },
+    {
+      "day": 16,
+      "region": "India",
+      "peopleName": "Kurmi",
+      "file": "data/es/day-16.json"
+    },
+    {
+      "day": 17,
+      "region": "India",
+      "peopleName": "Mahratta",
+      "file": "data/es/day-17.json"
+    },
+    {
+      "day": 18,
+      "region": "India",
+      "peopleName": "Rajput",
+      "file": "data/es/day-18.json"
+    },
+    {
+      "day": 19,
+      "region": "India",
+      "peopleName": "Satani",
+      "file": "data/es/day-19.json"
+    },
+    {
+      "day": 20,
+      "region": "India",
+      "peopleName": "Shaikh",
+      "file": "data/es/day-20.json"
+    },
+    {
+      "day": 21,
+      "region": "India",
+      "peopleName": "Teli",
+      "file": "data/es/day-21.json"
+    },
+    {
+      "day": 22,
+      "region": "India",
+      "peopleName": "Yadav",
+      "file": "data/es/day-22.json"
+    },
+    {
+      "day": 23,
+      "region": "América Latina",
+      "peopleName": "Los PF en Las Amazonas",
+      "file": "data/es/day-23.json"
+    },
+    {
+      "day": 24,
+      "region": "Asia otros",
+      "peopleName": "PF en Daguestán",
+      "file": "data/es/day-24.json"
+    },
+    {
+      "day": 25,
+      "region": "Asia otros",
+      "peopleName": "PF en Tukangbesi de Sulawesi",
+      "file": "data/es/day-25.json"
+    },
+    {
+      "day": 26,
+      "region": "Asia otros",
+      "peopleName": "PF en Irán",
+      "file": "data/es/day-26.json"
+    },
+    {
+      "day": 27,
+      "region": "Asia otros",
+      "peopleName": "Los malayos de Malasia",
+      "file": "data/es/day-27.json"
+    },
+    {
+      "day": 28,
+      "region": "Asia otros",
+      "peopleName": "Maldivos",
+      "file": "data/es/day-28.json"
+    },
+    {
+      "day": 29,
+      "region": "Asia otros",
+      "peopleName": "Nuristani",
+      "file": "data/es/day-29.json"
+    },
+    {
+      "day": 30,
+      "region": "Asia otros",
+      "peopleName": "Pattani Malay",
+      "file": "data/es/day-30.json"
+    },
+    {
+      "day": 31,
+      "region": "Asia otros",
+      "peopleName": "Sylheti",
+      "file": "data/es/day-31.json"
+    }
+  ]
+}

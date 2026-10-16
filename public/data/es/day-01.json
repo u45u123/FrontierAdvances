@@ -1,0 +1,217 @@
+{
+  "day": 1,
+  "region": "África",
+  "peopleName": "Fulani / Fulbe",
+  "personImage": {
+    "src": "assets/day-01-person.jpeg",
+    "source": "Flickr"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "13,877,900 (PF solamente desde agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Fula"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Menos de 0.1%"
+    },
+    {
+      "label": "Biblia-Porciones",
+      "value": "Sí; Nuevo Testamento: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los fulani son el ",
+          "bold": false
+        },
+        {
+          "text": "grupo nómada ",
+          "bold": true
+        },
+        {
+          "text": "más grande del mundo. Durante más de 1,000 años, han influido en la política, el comercio y la religión de África Occidental. Como los primeros africanos occidentales en seguir el islam, lo difundieron a través de las yihad y formaron un poderoso imperio en el siglo XIX.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Se les conoce por varios nombres: fulani o fula (del hausa), peul o peulh (francés, del wolof), fulbe (anglicanizado de fulfulde/pulaar) y fallata/fellata (de kanuri, usado en Chad y Sudán).",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Por tradición, los fulani son pastores, desplazándose con su ganado en busca de hierba fresca y agua. Conocidos por su profundo conocimiento de la naturaleza, muchos aún viven así, mientras que otros se han asentado en pueblos. Viven en casas sencillas y visten ropa colorida con estampados. Hoy en día, muchos de ellos son comerciantes influyentes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Las familias fulani son muy unidas, enseñando a los niños la cortesía, el trabajo duro y el orgullo por su cultura. La música, la narración y la danza desempeñan papeles importantes en sus vidas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Lamentablemente, durante siglos ha habido conflictos entre agricultores sedentarios y pastores ",
+          "bold": false
+        },
+        {
+          "text": "nómadas ",
+          "bold": true
+        },
+        {
+          "text": "y agricultores. Los agricultores acusan a los nómadas de dañar sus cosechas con sus rebaños, mientras que los ",
+          "bold": false
+        },
+        {
+          "text": "nómadas ",
+          "bold": true
+        },
+        {
+          "text": "se quejan de robos de ganado, problemas de acceso al agua y movimiento. Estos problemas pueden resolverse con paz, comprensión y apoyo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los pocos cristianos fulani a menudo enfrentan el rechazo de sus propias comunidades y el peligro de grupos extremistas. Algunos son atacados u obligados a abandonar sus casas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los fulani son muy orgullosos de su identidad como musulmanes. Sin embargo, su situación varía mucho en los diferentes países, dependiendo del estilo de vida, la educación y cómo se perciben a ellos mismos, y cómo otros los perciben.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Dios se ha revelado a algunos de los fulani en ciertas áreas y hay grupos de creyentes fulani en varios países los cuales muchas veces enfrentan rechazo de sus propias comunidades, y peligro de grupos extremistas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Aún necesitan más obreros. Sin embargo, hay varias iglesias bien establecidas en un número de los países de África Occidental, con pastores maduros. Un pastor ha empezado su propia agencia llamada \"Ministerios fulani\"",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "\"El SEÑOR ",
+          "bold": false
+        },
+        {
+          "text": "cuidará tu salida y tu entrada",
+          "bold": true
+        },
+        {
+          "text": "\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmo 121:8 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar por un movimiento imparable del Espíritu Santo entre los fulani, levantando discípulos, ",
+          "bold": false
+        },
+        {
+          "text": "pastores",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "espirituales",
+          "bold": true
+        },
+        {
+          "text": ", y misioneros para Cristo en toda África y más allá.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por más obreros amorosos y comprometidos para servir al pueblo fulani.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por las víctimas del terrorismo y que los fulani encuentren libertad, paz y transformación por medio del Evangelio.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por los refugiados fulani que enfrentan discriminación, para que Dios provea para sus necesidades y los prepare para los desafíos que se avecinan.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los líderes fulani vean la necesidad de que los jóvenes fulani reciban educación formal para mejores oportunidades en el futuro. El estilo de vida típicamente fulani es cada vez más difícil.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-01-map.jpeg",
+    "source": "wikiwand"
+  }
+}

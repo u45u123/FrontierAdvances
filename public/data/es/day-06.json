@@ -1,0 +1,185 @@
+{
+  "day": 6,
+  "region": "Árabes",
+  "peopleName": "Argelinos de habla árabe",
+  "personImage": {
+    "src": "assets/day-06-person.jpeg",
+    "source": "Basel2019 - Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "36,947,700 esparcidos en más de 8 países (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Árabe argelino"
+    },
+    {
+      "label": "Cristianos",
+      "value": "Menos de 0.1%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: No"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "La población árabe en Argelia tiene sus raíces en las conquistas islámicas del siglo VII. La campaña del profeta Mahoma unificó la península arábiga, lo que llevó a la rápida expansión del imperio árabe-islámico. Antes de las conquistas árabes, el norte de África estaba habitado por tribus bereberes (imazighen), que hablaban lenguas afroasiáticas y tenían una identidad cultural distinta. Con el tiempo, la influencia islámica llevó a un proceso gradual de arabización.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El árabe argelino incluye vocabulario y sintaxis bereber, así como palabras de otras lenguas. También se habla árabe clásico junto con lenguas bereberes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Argelia es mayoritariamente musulmana suní, con leyes restrictivas sobre actividades religiosas no musulmanas. El cristianismo, especialmente entre los bereberes cabiles, sufre ",
+          "bold": false
+        },
+        {
+          "text": "una persecución",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "significativa",
+          "bold": true
+        },
+        {
+          "text": "; la mayoría de las iglesias evangélicas ha sido cerrada por el gobierno.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los árabes de habla árabe de Argelia siguen siendo uno de los pueblos menos alcanzados del mundo, con una presencia evangélica inferior al 0.01%. La inversión estratégica, la presencia a largo plazo y la oración persistente son esenciales para ver el reino de Dios establecerse entre este pueblo fronterizo.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "\"Y conocerán la verdad, y",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "la verdad los hará ",
+          "bold": false
+        },
+        {
+          "text": "libres",
+          "bold": true
+        },
+        {
+          "text": "... Así que, si el Hijo los ",
+          "bold": false
+        },
+        {
+          "text": "libera",
+          "bold": true
+        },
+        {
+          "text": ", serán ustedes verdaderamente ",
+          "bold": false
+        },
+        {
+          "text": "libres",
+          "bold": true
+        },
+        {
+          "text": ".\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "John 8:32, 36 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los argelinos de habla árabe encuentren la verdad de Jesucristo, para que puedan conocer la verdad que ",
+          "bold": false
+        },
+        {
+          "text": "libera ",
+          "bold": true
+        },
+        {
+          "text": "a las personas. Que Dios abra los corazones a Su Palabra y a Su presencia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Que llegue una ola de ",
+          "bold": false
+        },
+        {
+          "text": "libertad",
+          "bold": true
+        },
+        {
+          "text": " a los países donde haya argelinos árabes: En 2024, solo 4 de las 47 iglesias protestantes permanecen oficialmente abiertas. Esto hace que la evangelización y el discipulado entre las poblaciones de habla árabe sean especialmente difíciles. Orar para que los líderes cristianos se mantengan firmes en su fe.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que Dios dé resistencia a los cristianos argelinos frente a la persecución: El crecimiento del cristianismo, especialmente entre los bereberes cabiles, ha provocado un mayor escrutinio y persecución por parte del gobierno argelino.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por el establecimiento de equipos misioneros espiritualmente maduros y culturalmente sensibles en los países de habla árabe argelino.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-06-map.png",
+    "source": "Britannica"
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "regions": {
+    "非洲": {
+      "color": "#CFA28F"
+    },
+    "阿拉伯世界": {
+      "color": "#B7B281"
+    },
+    "印度": {
+      "color": "#D66F4E"
+    },
+    "拉丁美洲": {
+      "color": "#9DAFBE"
+    },
+    "亞洲其他地區": {
+      "color": "#B69CB4"
+    }
+  },
+  "days": [
+    {
+      "day": 1,
+      "region": "非洲",
+      "peopleName": "富拉尼人",
+      "file": "data/zh-Hant/day-01.json"
+    },
+    {
+      "day": 2,
+      "region": "非洲",
+      "peopleName": "奧羅莫加雷人",
+      "file": "data/zh-Hant/day-02.json"
+    },
+    {
+      "day": 3,
+      "region": "非洲",
+      "peopleName": "索馬利亞人",
+      "file": "data/zh-Hant/day-03.json"
+    },
+    {
+      "day": 4,
+      "region": "阿拉伯世界",
+      "peopleName": "阿拉伯文化親緣群體",
+      "file": "data/zh-Hant/day-04.json"
+    },
+    {
+      "day": 5,
+      "region": "阿拉伯世界",
+      "peopleName": "葉門人",
+      "file": "data/zh-Hant/day-05.json"
+    },
+    {
+      "day": 6,
+      "region": "阿拉伯世界",
+      "peopleName": "阿拉伯語阿爾及利亞人",
+      "file": "data/zh-Hant/day-06.json"
+    },
+    {
+      "day": 7,
+      "region": "阿拉伯世界",
+      "peopleName": "費扎拉人",
+      "file": "data/zh-Hant/day-07.json"
+    },
+    {
+      "day": 8,
+      "region": "阿拉伯世界",
+      "peopleName": "蘇丹阿拉伯人",
+      "file": "data/zh-Hant/day-08.json"
+    },
+    {
+      "day": 9,
+      "region": "印度",
+      "peopleName": "印度前沿民族群體",
+      "file": "data/zh-Hant/day-09.json"
+    },
+    {
+      "day": 10,
+      "region": "印度",
+      "peopleName": "巴格班人",
+      "file": "data/zh-Hant/day-10.json"
+    },
+    {
+      "day": 11,
+      "region": "印度",
+      "peopleName": "婆羅門",
+      "file": "data/zh-Hant/day-11.json"
+    },
+    {
+      "day": 12,
+      "region": "印度",
+      "peopleName": "多比人",
+      "file": "data/zh-Hant/day-12.json"
+    },
+    {
+      "day": 13,
+      "region": "印度",
+      "peopleName": "卡拉爾伊迪加人",
+      "file": "data/zh-Hant/day-13.json"
+    },
+    {
+      "day": 14,
+      "region": "印度",
+      "peopleName": "卡普人",
+      "file": "data/zh-Hant/day-14.json"
+    },
+    {
+      "day": 15,
+      "region": "印度",
+      "peopleName": "庫姆哈爾人",
+      "file": "data/zh-Hant/day-15.json"
+    },
+    {
+      "day": 16,
+      "region": "印度",
+      "peopleName": "庫爾米人",
+      "file": "data/zh-Hant/day-16.json"
+    },
+    {
+      "day": 17,
+      "region": "印度",
+      "peopleName": "馬拉塔人",
+      "file": "data/zh-Hant/day-17.json"
+    },
+    {
+      "day": 18,
+      "region": "印度",
+      "peopleName": "拉傑普特人",
+      "file": "data/zh-Hant/day-18.json"
+    },
+    {
+      "day": 19,
+      "region": "印度",
+      "peopleName": "薩塔尼人",
+      "file": "data/zh-Hant/day-19.json"
+    },
+    {
+      "day": 20,
+      "region": "印度",
+      "peopleName": "謝赫人",
+      "file": "data/zh-Hant/day-20.json"
+    },
+    {
+      "day": 21,
+      "region": "印度",
+      "peopleName": "泰利人",
+      "file": "data/zh-Hant/day-21.json"
+    },
+    {
+      "day": 22,
+      "region": "印度",
+      "peopleName": "亞達夫人",
+      "file": "data/zh-Hant/day-22.json"
+    },
+    {
+      "day": 23,
+      "region": "拉丁美洲",
+      "peopleName": "亞馬遜地區前沿民族群體",
+      "file": "data/zh-Hant/day-23.json"
+    },
+    {
+      "day": 24,
+      "region": "亞洲其他地區",
+      "peopleName": "達吉斯坦前沿民族群體",
+      "file": "data/zh-Hant/day-24.json"
+    },
+    {
+      "day": 25,
+      "region": "亞洲其他地區",
+      "peopleName": "蘇拉威西圖康貝西前沿民族群體",
+      "file": "data/zh-Hant/day-25.json"
+    },
+    {
+      "day": 26,
+      "region": "亞洲其他地區",
+      "peopleName": "伊朗前沿民族群體",
+      "file": "data/zh-Hant/day-26.json"
+    },
+    {
+      "day": 27,
+      "region": "亞洲其他地區",
+      "peopleName": "馬來西亞馬來人",
+      "file": "data/zh-Hant/day-27.json"
+    },
+    {
+      "day": 28,
+      "region": "亞洲其他地區",
+      "peopleName": "馬爾地夫人",
+      "file": "data/zh-Hant/day-28.json"
+    },
+    {
+      "day": 29,
+      "region": "亞洲其他地區",
+      "peopleName": "努里斯坦人",
+      "file": "data/zh-Hant/day-29.json"
+    },
+    {
+      "day": 30,
+      "region": "亞洲其他地區",
+      "peopleName": "北大年馬來人",
+      "file": "data/zh-Hant/day-30.json"
+    },
+    {
+      "day": 31,
+      "region": "亞洲其他地區",
+      "peopleName": "錫爾赫特人",
+      "file": "data/zh-Hant/day-31.json"
+    }
+  ]
+}

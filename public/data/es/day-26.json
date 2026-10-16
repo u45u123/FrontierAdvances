@@ -1,0 +1,169 @@
+{
+  "day": 26,
+  "region": "Asia otros",
+  "peopleName": "PF en Irán",
+  "personImage": {
+    "src": "assets/day-26-person.jpg",
+    "source": "Shadegan - Wikimedia Licensed under CC BY-SA 4.0"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "2,588,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Luri (del norte)"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los luri viven principalmente en las regiones occidental y suroeste de Irán, especialmente en las montañas Zagros y sus alrededores. Algunos luri viven en Irak. Son pueblos nómadas que trabajan como ",
+          "bold": false
+        },
+        {
+          "text": "pastores ",
+          "bold": true
+        },
+        {
+          "text": "y viajan de seis a ocho meses al año, viviendo en tiendas negras de pelo de cabra. Viven en viviendas permanentes durante unos meses en invierno. Algunos luri se han asentado en aldeas porque prefieren la agricultura a la pastorela. El trigo y la cebada son sus principales cultivos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los luri creen que el éxito de un pastor depende de sus cualidades personales y de su buena suerte. La sociedad luri está dominada por quienes poseen los rebaños más grandes y que tienen más dinero. Esta clase alta contrata a miembros de la clase baja para cuidar de sus rebaños. La mayoría de los luri pertenece a la clase baja de la sociedad.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los luri son musulmanes chiitas practicantes. Han adoptado un sistema de creencias muy práctico con prácticas religiosas sencillas. Les encantan los santuarios dedicados a hombres santos (fundadores de varios grupos islámicos) y los utilizan como lugares de peregrinación. Debido a que se cree que estos santuarios poseen poderes curativos, personas con enfermedades físicas y psicológicas los visitan cada año con la esperanza de ser curadas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Solo se conocen unos pocos cristianos luri. Hay algo de material evangelístico disponible en su idioma.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los luri se dividen en unidades políticas llamadas tribus, o \"il\". Cada tribu está encabezada por un jefe hereditario, o khan, que es reclutado por una de las subtribus. Orar para que oigan hablar del único y verdadero jefe, el Rey de Reyes.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "\"Yo soy el ",
+          "bold": false
+        },
+        {
+          "text": "buen pastor",
+          "bold": true
+        },
+        {
+          "text": "; el ",
+          "bold": false
+        },
+        {
+          "text": "buen pastor",
+          "bold": true
+        },
+        {
+          "text": "su vida da por las ovejas.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Juan 10:11 (RV1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los luri, siendo pastores nómadas o agricultores asentados, un día escuchen la voz de Jesús, ",
+          "bold": false
+        },
+        {
+          "text": "el Buen Pastor, ",
+          "bold": true
+        },
+        {
+          "text": "y reconozcan que ellos también están entre \"las otras ovejas\" que Él anhela traer a su rebaño.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los jefes de tribus lleguen a fe en Cristo, y compartan las buenas nuevas con el resto de la tribu.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el mensaje de Cristo supere las fuertes divisiones de clases dentro de la sociedad luri, trayendo unidad, dignidad y esperanza al descubrir ellos que hay un solo rebaño bajo un solo Pastor.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por los pocos creyentes luri, que sean fortalecidos en su fe, y que encuentren otros con que tener compañerismo de manera regular. Orar para que la iglesia iraní tenga el deseo de alcanzar a los luri, y que hallen maneras de conectarse con ellos y compartir las buenas nuevas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por que se levanten obreros para vivir entre los luri y amarlos incondicionalmente.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-26-map.png",
+    "source": "Joshua Project"
+  }
+}

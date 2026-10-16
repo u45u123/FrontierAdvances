@@ -1,0 +1,154 @@
+{
+  "day": 23,
+  "region": "América Latina",
+  "peopleName": "Los PF en Las Amazonas",
+  "personImage": {
+    "src": "assets/day-23-person.jpeg",
+    "source": "Wikimedia"
+  },
+  "statisticsIntro": "Los Matis, uno de los PF en Las Amazonas",
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "400 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Étnica"
+    },
+    {
+      "label": "Idioma",
+      "value": "Matis"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Traducción empezada"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Hay 17 PF en las Amazonas. La gente matis es uno de ellos. Los matis son una pequeña tribu en el noreste de las Amazonas brasileño, vulnerable a enfermedades y a menudo explotados por forasteros. No hay recursos cristianos en su idioma, y hay muy pocos, si es que hay alguno, seguidores de Cristo entre ellos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Aproximadamente la mitad de los matis se ha trasladado a pueblos para estudiar y trabajar, adoptando un estilo de vida más urbano. Los que permanecen en el bosque dependen de la caza, la recolección, la pesca y el cultivo de yuca. Su esperanza de vida es baja, alrededor de 45 años, debido a enfermedades y atención médica limitada. Los matis rurales se casan dentro de la tribu y tienen muchos hijos, aunque muchos no llegan a los diez años. Cada vez más jóvenes matises están dejando la selva tropical y alejándose del modo de vida tradicional de sus abuelos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los matis creen en una fuerza vital llamada \"xo\", que intentan influir mediante rituales y ofrendas. Algunos también piensan que los espíritus habitan ríos, árboles, montañas, animales y el cielo, y que estos espíritus deben ser apaciguados para evitar daño. ",
+          "bold": false
+        },
+        {
+          "text": "Viven con miedo ",
+          "bold": true
+        },
+        {
+          "text": "de ofender esta fuerza vital o a los espíritus, aunque no adoran a espíritus ni antepasados.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los equipos cristianos pueden ofrecer a los matis medicina moderna y proporcionar filtros de agua para agua limpia. Pero, lo más importante es que los matis necesitan escuchar las Buenas Nuevas de Jesucristo, que es el único que puede perdonar sus pecados y liberarlos del temor a los espíritus malignos.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "El cual ",
+          "bold": false
+        },
+        {
+          "text": "nos ha librado ",
+          "bold": true
+        },
+        {
+          "text": "de la potestad de las tinieblas, y trasladado al reino de su amado Hijo",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Colosenses 1:13 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar para que los matis sean ",
+          "bold": false
+        },
+        {
+          "text": "liberados del temor ",
+          "bold": true
+        },
+        {
+          "text": "de los espíritus y llevados al Reino de Dios, experimentando la libertad, la paz, la verdad y la esperanza que se encuentran en Jesucristo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por un avance espiritual, que la oscuridad de sus creencias tradicionales sea disipada por la luz de Cristo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar por protección y sanidad, que Dios los libre de la enfermedad, la explotación y la opresión espiritual.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los matis que viven en los pueblos encuentren el evangelio a través de otros creyentes.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que los obreros lleven el evangelio de formas que los matis puedan entender, a pesar de la falta de recursos cristianos en su idioma.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-23-map.jpeg",
+    "source": "Wikimedia"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "day": 18,
+  "region": "India",
+  "peopleName": "Rajput",
+  "personImage": {
+    "src": "assets/day-18-person.jpeg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "31,894,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los rajput son un grupo grande y diverso de hindúes que generalmente se consideran parte de la clase kshatriya (guerrera). Son una casta avanzada importante e incluyen personas de diversos orígenes étnicos y geográficos. Aunque principalmente en Rajasthan, los rajput se encuentran por toda la India.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "El nombre \"rajput\" significa \"hijo de un rey\". Tradicionalmente, los rajput eran realeza, líderes y guerreros que gobernaban y protegían reinos independientes, manteniendo cuidadosamente sus linajes y clanes reales. En 1970, India abolió sus títulos y derechos de propiedad. En Rajasthan sus dinastías aún se conocen, y sus clanes siguen siendo identificables.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hoy en día, los rajput continúan ocupando ",
+          "bold": false
+        },
+        {
+          "text": "cargos destacados ",
+          "bold": true
+        },
+        {
+          "text": "en la política, el ejército y la policía. Respetados por su liderazgo, coraje y lealtad, continúan su legado de guía y protección.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los rajput suelen adorar a Shiva, Surya y Durga, buscando protección de sus dioses patronos y guía de gurús hindúes. Aunque existen escrituras y enseñanzas en hindi, su estatus de casta superior y aislamiento social limitan la exposición de los rajput a las Buenas Nuevas.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "A medida que el evangelio transforma a los rajput, su posición como influyentes puede servir como catalizador para difundir el evangelio y avanzar el Reino de Dios entre muchos otros grupos de personas en la India y más allá.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "\"",
+          "bold": false
+        },
+        {
+          "text": "Humíllense ",
+          "bold": true
+        },
+        {
+          "text": "delante del Señor y él los exaltará.\"",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Santiago 4:10 (NVI)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar que las fortalezas espirituales que por generaciones han atado a los rajput sean derribadas. Que las cadenas de creencias falsas e idolatría sean reemplazadas con un hambre por la verdad que se encuentra en Jesús y que experimenten libertad y salvación en Su nombre.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Señor ablande los corazones y abra el entendimiento de los rajputs hindúes para recibir la verdad. Orar que el mensaje de salvación por medio de Jesucristo toque sus almas. Que tengan encuentros con Jesús por medio de sueños, visiones y citas divinas, experimentando Su amor y gracia.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que los rajput s",
+          "bold": false
+        },
+        {
+          "text": "e humillen",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "para ",
+          "bold": true
+        },
+        {
+          "text": "aceptar el evangelio. Que su cultura sea redimida para Su gloria y que honren a Dios con gozo mientras celebren su legado, valorando su identidad como hijos e hijas del Dios Altísimo.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que el Señor envíe a Su pueblo entre ellos, para mostrarles lo que significa seguir a Jesús y adorar al Rey de reyes, y que las familias sean reconocidas por su disposición a compartir las Escrituras y a buscar primeramente Su Reino.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-18-map.png",
+    "source": "Joshua Project"
+  }
+}

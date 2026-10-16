@@ -1,0 +1,169 @@
+{
+  "day": 16,
+  "region": "India",
+  "peopleName": "Kurmi",
+  "personImage": {
+    "src": "assets/day-16-person.jpg",
+    "source": "Wikimedia"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "15,630,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo"
+    },
+    {
+      "label": "Idioma",
+      "value": "Hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0.01%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {
+      "runs": [
+        {
+          "text": "Los kurmi son una casta ",
+          "bold": false
+        },
+        {
+          "text": "agrícola ",
+          "bold": true
+        },
+        {
+          "text": "en India y Nepal; algunos viven en Bangladesh y Pakistán también. Los kurmi se encuentran en Uttar Pradesh (más de 5 millones), Bihar, Madhya Pradesh, Punjab, Jharkhand, Assam, y partes de Bengal Occidental en India. Los kurmi son una de las castas (jatis). Son conocidos como una de las más antiguas castas agrícolas. Hablan kurmali, escrito en la escritura bangla, en Bengal Occidental, devanagari en Jharkhand, y odia en Odisha. Kurmali tiene muchos dialectos.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Los Kurmi son hindúes. ",
+          "bold": false
+        },
+        {
+          "text": "Adoran a",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "Ram ",
+          "bold": true
+        },
+        {
+          "text": "(el rey ideal y el hombre perfecto, representando justicia, virtud y dharma), ",
+          "bold": false
+        },
+        {
+          "text": "y Vishnu ",
+          "bold": true
+        },
+        {
+          "text": "(uno de los dioses principales del hinduismo). También adoran otros dioses como Kali, Durga y Hanuman. Celebran grandes festivales hindúes, como Diwali, Holi, Shivaratri y Dussehra.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Hay muy poco cristianismo entre los kurmi. La mayoría de los kurmi sigue el hinduismo. Unos pocos se han convertido al cristianismo, pero no es común. La comunidad kurmi tiene una identidad hindú fuerte y se siente la presión social para quedarse hindú, según el Proyecto Josué.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "El camino de Dios es ",
+          "bold": false
+        },
+        {
+          "text": "perfecto",
+          "bold": true
+        },
+        {
+          "text": "; la palabra del SEÑOR es intachable. Escudo es Dios a los que se refugian en él. Pues ¿quién es Dios sino el SEÑOR?",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "¿Quién es la Roca sino nuestro Dios? Es él quien me arma de valor y ",
+          "bold": false
+        },
+        {
+          "text": "hace perfecto mi camino",
+          "bold": true
+        },
+        {
+          "text": ";",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmo 18:30-32 (NVD)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Dios es ",
+          "bold": false
+        },
+        {
+          "text": "perfecto ",
+          "bold": true
+        },
+        {
+          "text": "y justo, y que puedan caminar en Sus caminos ",
+          "bold": false
+        },
+        {
+          "text": "perfectos ",
+          "bold": true
+        },
+        {
+          "text": "por medio de la sangre de Jesús.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar que los pocos que ya han aceptado el cristianismo experimenten profundamente Su amor, para que sean arraigados firmemente en Su verdad y transformados por el Espíritu Santo. Orar que sirvan fielmente como sacerdotes de Dios entre su propio pueblo, y más allá.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-16-map.png",
+    "source": "Joshua Project"
+  }
+}

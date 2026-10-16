@@ -1,0 +1,117 @@
+{
+  "day": 10,
+  "region": "India",
+  "peopleName": "Baghban",
+  "personImage": {
+    "src": "assets/day-10-person.jpeg",
+    "source": "Pixabay"
+  },
+  "statistics": [
+    {
+      "label": "Población",
+      "value": "884,000 (en agosto 2025)"
+    },
+    {
+      "label": "Religión",
+      "value": "Hinduismo e Islam"
+    },
+    {
+      "label": "Idioma",
+      "value": "Urdu e hindi"
+    },
+    {
+      "label": "Cristianos",
+      "value": "0-0.1%"
+    },
+    {
+      "label": "Biblia",
+      "value": "Nuevo Testamento: Sí; Biblia completa: Sí"
+    }
+  ],
+  "generalInformation": [
+    {"runs": [{"text": "El pueblo bagban es una comunidad de menos de un millón de personas. Unos 616.000 provienen de origen hindú y unos 268.000 de origen musulmán. Como India tiene más de mil millones de habitantes, los baghban no son muy conocidos. Viven principalmente en India, pero también en Nepal y Pakistán. En la India, la mayoría se encuentran en Uttar Pradesh, Maharashtra y Karnataka. Normalmente hablan urdu e hindi, que ya cuentan con traducciones de la Biblia y recursos cristianos.", "bold": false}]},
+    {"runs": [{"text": "La palabra baghban significa \"el que cuida del jardín\", reflejando sus orígenes como jardineros. Hoy en día, muchos siguen vendiendo frutas y verduras, mientras que otros trabajan en empleos públicos. Trabajan duro para mantener a sus familias y a menudo intentan enviar tanto a los hijos como las hijas a la escuela. Aun así, la política basada en castas en India dificulta que los niños bagban accedan a profesiones como la medicina o el derecho.", "bold": false}]},
+    {"runs": [{"text": "Misioneros han estado activos en la India desde el siglo XVIII, primero en el sur y luego en el este y norte. Los misioneros indios también han desempeñado un papel fundamental en la difusión del evangelio. Sin embargo, el porcentaje de cristianos entre los bagban sigue siendo del 0%.", "bold": false}]},
+    {"runs": [{"text": "Puesto que hay tan poca información acerca de ellos, podría sentir que sea un pueblo olvidado. Oremos para que los baghban sepan que Dios no los ha olvidado.", "bold": false}]}
+  ],
+  "scripture": [
+    {
+      "runs": [
+        {
+          "text": "Oh Dios de los ejércitos, Vuelve ahora; Mira desde el cielo, y considera, y visita esta viña, la ",
+          "bold": false
+        },
+        {
+          "text": "planta que planta tu diestra",
+          "bold": true
+        },
+        {
+          "text": ", y el renuevo que para ti afirmaste",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Salmo 80:14-15 (RVR1960)",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "prayerPoints": [
+    {
+      "runs": [
+        {
+          "text": "Orar por que los cristianos en Baghban se acuerden ",
+          "bold": false
+        },
+        {
+          "text": "de",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "Dios como su labrador",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "amoroso",
+          "bold": true
+        },
+        {
+          "text": ", y que no se desanimen.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que se envíen muchos obreros del Señor para plantar el evangelio en esta tierra.",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "runs": [
+        {
+          "text": "Orar para que como Dios el labrador los cuida y los recuerda, que el mundo también los recuerde.",
+          "bold": false
+        }
+      ]
+    }
+  ],
+  "mapImage": {
+    "src": "assets/day-10-map.png",
+    "source": "Joshua Project"
+  }
+}
