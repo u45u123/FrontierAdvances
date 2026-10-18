@@ -48,11 +48,19 @@
     {
       "runs": [
         {
-          "text": "Today they live in Somalia and Kenya. Their identity and language does change depending on the location This is why many see them as",
+          "text": "Today they live in Somalia and Kenya. Their identity and language does change depending on the location This is why many see them as ",
           "bold": false
         },
         {
-          "text": "bridge people",
+          "text": "bridge",
+          "bold": true
+        },
+        {
+          "text": " ",
+          "bold": false
+        },
+        {
+          "text": "people ",
           "bold": true
         },
         {
@@ -114,7 +122,7 @@
           "bold": true
         },
         {
-          "text": "is not quickly broken.",
+          "text": " is not quickly broken.",
           "bold": false
         }
       ]
@@ -156,7 +164,7 @@
     {
       "runs": [
         {
-          "text": "Pray that Garre believers will share God’s Word wisely with their families and friends and become true",
+          "text": "Pray that Garre believers will share God’s Word wisely with their families and friends and become true ",
           "bold": false
         },
         {
@@ -164,7 +172,7 @@
           "bold": true
         },
         {
-          "text": "for the gospel in this diverse subregion.",
+          "text": " for the gospel in this diverse subregion.",
           "bold": false
         }
       ]

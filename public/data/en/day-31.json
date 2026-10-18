@@ -8,7 +8,20 @@
   },
   "closing": {
     "image": "assets/closing-en.png",
-    "alt": "In the power of the Holy Spirit, be witnesses to the ends of the earth, where Christ is not known. Acts 1:8, Romans 15:20."
+    "alt": "In the power of the Holy Spirit, be witnesses to the ends of the earth, where Christ is not known. Acts 1:8, Romans 15:20.",
+    "scriptureQuotations": {
+      "heading": "Scripture Quotations",
+      "items": [
+        {
+          "title": "NIV®",
+          "text": "Scripture quotations taken from The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.™ Used by permission. All rights reserved worldwide."
+        },
+        {
+          "title": "ESV®",
+          "text": "Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. ESV Text Edition: 2025."
+        }
+      ]
+    }
   },
   "statistics": [
     {

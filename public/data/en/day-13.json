@@ -17,7 +17,7 @@
     },
     {
       "label": "Language",
-      "value": "Telugu"
+      "value": "Telugu and Kannade"
     },
     {
       "label": "Christian",
@@ -82,15 +82,15 @@
           "bold": false
         },
         {
-          "text": "the poor.",
+          "text": " the poor",
           "bold": true
         },
         {
-          "text": "He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set",
+          "text": ". He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set ",
           "bold": false
         },
         {
-          "text": "the oppressed",
+          "text": "the oppressed ",
           "bold": true
         },
         {
