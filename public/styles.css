@@ -89,6 +89,12 @@ body {
   color: var(--forest);
 }
 
+.language-label {
+  display: flex;
+  align-items: center;
+  gap: .25rem;
+}
+
 .page {
   max-width: 720px;
   margin: auto;

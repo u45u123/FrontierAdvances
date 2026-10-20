@@ -5,7 +5,7 @@ const template = document.querySelector('#entryTemplate');
 const closingTemplate = document.querySelector('#closingTemplate');
 const assetVersion = Date.now();
 const requestedLanguage = new URLSearchParams(window.location.search).get('lang');
-const language = ['en', 'es', 'ko', 'zh-Hant', 'zh-Hans'].includes(requestedLanguage) ? requestedLanguage : 'ko';
+const language = ['en', 'es', 'ko', 'zh-Hant', 'zh-Hans'].includes(requestedLanguage) ? requestedLanguage : 'en';
 const copy = language === 'ko' ? {
   language: '언어', today: '오늘의 기도', selectDay: '기도 일자 선택',
   statistics: '통계', information: '일반 정보', scripture: '성경 구절', prayers: '기도제목', map: '지도', day: '일차',
